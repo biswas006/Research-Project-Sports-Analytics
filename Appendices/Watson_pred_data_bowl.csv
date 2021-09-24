@@ -1,0 +1,46 @@
+"","id","Wickets_taken","Overs_bowled","batting_team","bowling_team","Total_runs_conceded","Bowling_economy","city","3 Wickets","5 Wickets","Wickets_Category","date"
+"1",829735,0,2,"Chennai Super Kings","Rajasthan Royals",21,10.5,"Ahmedabad",0,0,"1",2015
+"2",829741,0,1,"Kings XI Punjab","Rajasthan Royals",13,13,"Ahmedabad",0,0,"1",2015
+"3",829749,1,3,"Royal Challengers Bangalore","Rajasthan Royals",23,7.7,"Ahmedabad",0,0,"2",2015
+"4",829763,0,3,"Royal Challengers Bangalore","0",25,8.3,"Bangalore",0,0,"1",2015
+"5",829769,0,3,"Mumbai Indians","Rajasthan Royals",37,12.3,"Mumbai",0,0,"1",2015
+"6",829777,1,4,"Delhi Daredevils","Rajasthan Royals",26,6.5,"Mumbai",0,0,"2",2015
+"7",829787,2,3,"Sunrisers Hyderabad","Rajasthan Royals",36,12,"Mumbai",0,0,"2",2015
+"8",829797,0,2,"Chennai Super Kings","Rajasthan Royals",19,9.5,"Chennai",0,0,"1",2015
+"9",829811,2,4,"Kolkata Knight Riders","Rajasthan Royals",38,9.5,"Mumbai",0,0,"2",2015
+"10",829819,0,4,"Royal Challengers Bangalore","Rajasthan Royals",33,8.2,"Pune",0,0,"1",2015
+"11",980907,2,4,"Sunrisers Hyderabad","Royal Challengers Bangalore",30,7.5,"Bangalore",0,0,"2",2016
+"12",980921,2,4,"Delhi Daredevils","Royal Challengers Bangalore",28,7,"Bangalore",0,0,"2",2016
+"13",980927,0,4,"Mumbai Indians","Royal Challengers Bangalore",40,10,"Mumbai",0,0,"1",2016
+"14",980931,2,4,"Rising Pune Supergiants","Royal Challengers Bangalore",31,7.8,"Pune",0,0,"2",2016
+"15",980937,1,4,"Gujarat Lions","Royal Challengers Bangalore",31,7.8,"Rajkot",0,0,"2",2016
+"16",980953,1,4,"Sunrisers Hyderabad","Royal Challengers Bangalore",32,8,"Hyderabad",0,0,"2",2016
+"17",980959,1,3,"Kolkata Knight Riders","Royal Challengers Bangalore",38,12.7,"Bangalore",0,0,"2",2016
+"18",980969,3,4,"Rising Pune Supergiants","Royal Challengers Bangalore",25,6.2,"Bangalore",1,0,"3",2016
+"19",980977,2,4,"Kings XI Punjab","Royal Challengers Bangalore",22,5.5,"Chandigarh",0,0,"2",2016
+"20",980981,0,3,"Mumbai Indians","Royal Challengers Bangalore",38,12.7,"Bangalore",0,0,"1",2016
+"21",980987,0,1,"Gujarat Lions","Royal Challengers Bangalore",4,4,"Bangalore",0,0,"1",2016
+"22",980995,0,4,"Kolkata Knight Riders","Royal Challengers Bangalore",46,11.5,"Kolkata",0,0,"1",2016
+"23",980999,2,2,"Kings XI Punjab","Royal Challengers Bangalore",7,3.5,"Bangalore",0,0,"2",2016
+"24",981011,0,4,"Delhi Daredevils","Royal Challengers Bangalore",26,6.5,"Raipur",0,0,"1",2016
+"25",981013,4,4,"Gujarat Lions","Royal Challengers Bangalore",29,7.2,"Bangalore",1,0,"4",2016
+"26",981019,0,4,"Sunrisers Hyderabad","Royal Challengers Bangalore",61,15.2,"Bangalore",0,0,"1",2016
+"27",1082591,0,3,"Sunrisers Hyderabad","Royal Challengers Bangalore",41,13.7,"Hyderabad",0,0,"1",2017
+"28",1082595,1,4,"Delhi Daredevils","Royal Challengers Bangalore",21,5.2,"Bengaluru",0,0,"2",2017
+"29",1082598,0,2,"Kings XI Punjab","Royal Challengers Bangalore",29,14.5,"Indore",0,0,"1",2017
+"30",1082607,1,4,"Rising Pune Supergiant","Royal Challengers Bangalore",44,11,"Bangalore",0,0,"2",2017
+"31",1082610,0,2,"Gujarat Lions","Royal Challengers Bangalore",24,12,"Rajkot",0,0,"1",2017
+"32",1082628,1,4,"Mumbai Indians","Royal Challengers Bangalore",28,7,"Mumbai",0,0,"2",2017
+"33",1082633,1,4,"Kings XI Punjab","Royal Challengers Bangalore",43,10.8,"Bangalore",0,0,"2",2017
+"34",1082646,1,4,"Delhi Daredevils","Royal Challengers Bangalore",16,4,"Delhi",0,0,"2",2017
+"35",1136561,2,4,"Mumbai Indians","Chennai Super Kings",29,7.2,"Mumbai",0,0,"2",2018
+"36",1136565,2,4,"Kolkata Knight Riders","Chennai Super Kings",39,9.8,"Chennai",0,0,"2",2018
+"37",1136572,1,2,"Kings XI Punjab","Chennai Super Kings",15,7.5,"Chandigarh",0,0,"2",2018
+"38",1136577,1,3,"Rajasthan Royals","Chennai Super Kings",13,4.3,"Pune",0,0,"2",2018
+"39",1136580,0,2,"Sunrisers Hyderabad","Chennai Super Kings",23,11.5,"Hyderabad",0,0,"1",2018
+"40",1136584,0,2,"Royal Challengers Bangalore","Chennai Super Kings",21,10.5,"Bengaluru",0,0,"1",2018
+"41",1136587,0,4,"Mumbai Indians","Chennai Super Kings",41,10.2,"Pune",0,0,"1",2018
+"42",1136590,0,2,"Delhi Daredevils","Chennai Super Kings",27,13.5,"Pune",0,0,"1",2018
+"43",1136593,0,2,"Kolkata Knight Riders","Chennai Super Kings",19,9.5,"Kolkata",0,0,"1",2018
+"44",1136603,0,1,"Rajasthan Royals","Chennai Super Kings",9,9,"Jaipur",0,0,"1",2018
+"45",1136606,0,2,"Sunrisers Hyderabad","Chennai Super Kings",16,8,"Pune",0,0,"1",2018

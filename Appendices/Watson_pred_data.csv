@@ -1,0 +1,44 @@
+"","id","Runs_scored","batting_team","bowling_team","No_4s","No_6s","Balls_faced","Strike_rate","city","Man_of_match","No_30","No_50","No_100","Runs_category","date"
+"1",1136561,16,"Chennai Super Kings","Mumbai Indians",1,1,14,114.3,"Mumbai",0,0,0,0,"10_29",2018
+"2",1136565,42,"Chennai Super Kings","Kolkata Knight Riders",3,3,19,221.1,"Chennai",0,1,0,0,"30_49",2018
+"3",1136572,11,"Chennai Super Kings","Kings XI Punjab",2,0,10,110,"Chandigarh",0,0,0,0,"10_29",2018
+"4",1136577,106,"Chennai Super Kings","Rajasthan Royals",9,6,58,182.8,"Pune",1,0,0,1,"80_Plus",2018
+"5",1136580,9,"Chennai Super Kings","Sunrisers Hyderabad",0,1,16,56.2,"Hyderabad",0,0,0,0,"0_9",2018
+"6",1136584,7,"Chennai Super Kings","Royal Challengers Bangalore",0,1,4,175,"Bengaluru",0,0,0,0,"0_9",2018
+"7",1136587,12,"Chennai Super Kings","Mumbai Indians",1,0,11,109.1,"Pune",0,0,0,0,"10_29",2018
+"8",1136590,78,"Chennai Super Kings","Delhi Daredevils",4,7,41,190.2,"Pune",1,0,1,0,"50_79",2018
+"9",1136593,36,"Chennai Super Kings","Kolkata Knight Riders",4,2,25,144,"Kolkata",0,1,0,0,"30_49",2018
+"10",1136595,11,"Chennai Super Kings","Royal Challengers Bangalore",2,0,14,78.6,"Pune",0,0,0,0,"10_29",2018
+"11",1136603,39,"Chennai Super Kings","Rajasthan Royals",2,2,33,118.2,"Jaipur",0,1,0,0,"30_49",2018
+"12",1136606,57,"Chennai Super Kings","Sunrisers Hyderabad",5,3,35,162.9,"Pune",0,0,1,0,"50_79",2018
+"13",1136612,14,"Chennai Super Kings","Delhi Daredevils",0,1,23,60.9,"Delhi",0,0,0,0,"10_29",2018
+"14",1136617,0,"Chennai Super Kings","Sunrisers Hyderabad",0,0,5,0,"Mumbai",0,0,0,0,"0_9",2018
+"15",1136620,117,"Chennai Super Kings","Sunrisers Hyderabad",11,8,60,195,"Mumbai",1,0,0,1,"80_Plus",2018
+"16",1175356,0,"Chennai Super Kings","Royal Challengers Bangalore",0,0,10,0,"Chennai",0,0,0,0,"0_9",2019
+"17",1175360,44,"Chennai Super Kings","Delhi Capitals",4,3,27,163,"Delhi",1,1,0,0,"30_49",2019
+"18",1175367,13,"Chennai Super Kings","Rajasthan Royals",1,1,13,100,"Chennai",0,0,0,0,"10_29",2019
+"19",1175370,5,"Chennai Super Kings","Mumbai Indians",1,0,6,83.3,"Mumbai",0,0,0,0,"0_9",2019
+"20",1178393,26,"Chennai Super Kings","Kings XI Punjab",3,1,25,104,"Chennai",0,0,0,0,"10_29",2019
+"21",1178398,17,"Chennai Super Kings","Kolkata Knight Riders",2,1,9,188.9,"Chennai",0,0,0,0,"10_29",2019
+"22",1178400,0,"Chennai Super Kings","Rajasthan Royals",0,0,4,0,"Jaipur",0,0,0,0,"0_9",2019
+"23",1178404,6,"Chennai Super Kings","Kolkata Knight Riders",1,0,7,85.7,"Kolkata",0,0,0,0,"0_9",2019
+"24",1178408,31,"Chennai Super Kings","Sunrisers Hyderabad",4,0,29,106.9,"Hyderabad",0,1,0,0,"30_49",2019
+"25",1178414,5,"Chennai Super Kings","Royal Challengers Bangalore",1,0,3,166.7,"Bengaluru",0,0,0,0,"0_9",2019
+"26",1178416,96,"Chennai Super Kings","Sunrisers Hyderabad",9,6,54,177.8,"Chennai",1,0,1,0,"80_Plus",2019
+"27",1178419,8,"Chennai Super Kings","Mumbai Indians",2,0,4,200,"Chennai",0,0,0,0,"0_9",2019
+"28",1178425,0,"Chennai Super Kings","Delhi Capitals",0,0,9,0,"Chennai",0,0,0,0,"0_9",2019
+"29",1178430,7,"Chennai Super Kings","Kings XI Punjab",1,0,12,58.3,"Chandigarh",0,0,0,0,"0_9",2019
+"30",1181764,10,"Chennai Super Kings","Mumbai Indians",2,0,13,76.9,"Chennai",0,0,0,0,"10_29",2019
+"31",1181767,50,"Chennai Super Kings","Delhi Capitals",3,4,34,147.1,"Visakhapatnam",0,0,1,0,"50_79",2019
+"32",1181768,80,"Chennai Super Kings","Mumbai Indians",8,4,62,129,"Hyderabad",0,0,1,0,"80_Plus",2019
+"33",1216492,4,"Chennai Super Kings","Mumbai Indians",1,0,5,80,"Abu Dhabi",0,0,0,0,"0_9",2020
+"34",1216496,33,"Chennai Super Kings","Rajasthan Royals",1,4,22,150,"Sharjah",0,1,0,0,"30_49",2020
+"35",1216501,50,"Chennai Super Kings","Kolkata Knight Riders",6,1,41,122,"Abu Dhabi",0,0,1,0,"50_79",2020
+"36",1216509,36,"Chennai Super Kings","Delhi Capitals",6,0,28,128.6,"Sharjah",0,1,0,0,"30_49",2020
+"37",1216513,83,"Chennai Super Kings","Kings XI Punjab",11,3,58,143.1,"Dubai",1,0,1,0,"80_Plus",2020
+"38",1216516,1,"Chennai Super Kings","Sunrisers Hyderabad",0,0,6,16.7,"Dubai",0,0,0,0,"0_9",2020
+"39",1216525,14,"Chennai Super Kings","Royal Challengers Bangalore",3,0,18,77.8,"Dubai",0,0,0,0,"10_29",2020
+"40",1216528,42,"Chennai Super Kings","Sunrisers Hyderabad",1,3,38,110.5,"Dubai",0,1,0,0,"30_49",2020
+"41",1216533,8,"Chennai Super Kings","Rajasthan Royals",2,0,3,266.7,"Abu Dhabi",0,0,0,0,"0_9",2020
+"42",1216536,14,"Chennai Super Kings","Kolkata Knight Riders",1,1,19,73.7,"Dubai",0,0,0,0,"10_29",2020
+"43",1216539,14,"Chennai Super Kings","Delhi Capitals",1,1,16,87.5,"Dubai",0,0,0,0,"10_29",2020

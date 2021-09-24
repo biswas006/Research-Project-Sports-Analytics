@@ -1,0 +1,560 @@
+"","id","Runs_scored","batting_team","bowling_team","No_4s","No_6s","Balls_faced","Strike_rate","city","Man_of_match","No_30","No_50","No_100","Runs_category","date"
+"1",392184,10,"Kolkata Knight Riders","Deccan Chargers",1,1,12,83.3,"Cape Town",0,0,0,0,"10_29",2009
+"2",392186,44,"Kolkata Knight Riders","Kings XI Punjab",2,4,29,151.7,"Durban",1,1,0,0,"30_49",2009
+"3",392190,41,"Kolkata Knight Riders","Rajasthan Royals",2,4,38,107.9,"Cape Town",0,1,0,0,"30_49",2009
+"4",392197,12,"Kolkata Knight Riders","Mumbai Indians",0,1,12,100,"Port Elizabeth",0,0,0,0,"10_29",2009
+"5",392199,40,"Kolkata Knight Riders","Royal Challengers Bangalore",6,0,38,105.3,"Durban",0,1,0,0,"30_49",2009
+"6",392203,7,"Kolkata Knight Riders","Mumbai Indians",1,0,7,100,"East London",0,0,0,0,"0_9",2009
+"7",392207,17,"Kolkata Knight Riders","Kings XI Punjab",3,0,17,100,"Port Elizabeth",0,0,0,0,"10_29",2009
+"8",419122,75,"Kolkata Knight Riders","Mumbai Indians",7,2,65,115.4,"Mumbai",0,0,1,0,"50_79",2010
+"9",419127,14,"Kolkata Knight Riders","Kings XI Punjab",3,0,13,107.7,"Chandigarh",0,0,0,0,"10_29",2010
+"10",419131,30,"Kolkata Knight Riders","Delhi Daredevils",2,2,22,136.4,"Delhi",0,1,0,0,"30_49",2010
+"11",419135,4,"Kolkata Knight Riders","Deccan Chargers",1,0,7,57.1,"Kolkata",0,0,0,0,"0_9",2010
+"12",419139,88,"Kolkata Knight Riders","Kings XI Punjab",6,8,44,200,"Kolkata",0,0,1,0,"80_Plus",2010
+"13",419144,40,"Kolkata Knight Riders","Delhi Daredevils",5,2,22,181.8,"Kolkata",0,1,0,0,"30_49",2010
+"14",419148,34,"Kolkata Knight Riders","Royal Challengers Bangalore",6,1,17,200,"Bangalore",0,1,0,0,"30_49",2010
+"15",419153,7,"Kolkata Knight Riders","Chennai Super Kings",0,1,4,175,"Chennai",0,0,0,0,"0_9",2010
+"16",419158,0,"Kolkata Knight Riders","Rajasthan Royals",0,0,3,0,"Kolkata",0,0,0,0,"0_9",2010
+"17",501222,102,"Royal Challengers Bangalore","Kolkata Knight Riders",10,7,57,178.9,"Kolkata",1,0,0,1,"80_Plus",2011
+"18",501227,26,"Royal Challengers Bangalore","Delhi Daredevils",4,1,14,185.7,"Delhi",0,0,0,0,"10_29",2011
+"19",501232,49,"Royal Challengers Bangalore","Pune Warriors",4,4,26,188.5,"Bangalore",0,1,0,0,"30_49",2011
+"20",501244,107,"Royal Challengers Bangalore","Kings XI Punjab",10,9,49,218.4,"Bangalore",1,0,0,1,"80_Plus",2011
+"21",501247,44,"Royal Challengers Bangalore","Kochi Tuskers Kerala",3,5,17,258.8,"Bangalore",1,1,0,0,"30_49",2011
+"22",501252,70,"Royal Challengers Bangalore","Rajasthan Royals",7,4,44,159.1,"Jaipur",0,0,1,0,"50_79",2011
+"23",501255,38,"Royal Challengers Bangalore","Kolkata Knight Riders",6,2,12,316.7,"Bangalore",1,1,0,0,"30_49",2011
+"24",501260,0,"Royal Challengers Bangalore","Kings XI Punjab",0,0,7,0,"Dharamsala",0,0,0,0,"0_9",2011
+"25",501266,75,"Royal Challengers Bangalore","Chennai Super Kings",4,6,54,138.9,"Bangalore",1,0,1,0,"50_79",2011
+"26",501268,8,"Royal Challengers Bangalore","Chennai Super Kings",0,1,9,88.9,"Mumbai",0,0,0,0,"0_9",2011
+"27",501270,89,"Royal Challengers Bangalore","Mumbai Indians",9,5,50,178,"Chennai",1,0,1,0,"80_Plus",2011
+"28",501271,0,"Royal Challengers Bangalore","Chennai Super Kings",0,0,3,0,"Chennai",0,0,0,0,"0_9",2011
+"29",548315,2,"Royal Challengers Bangalore","Kolkata Knight Riders",0,0,8,25,"Bangalore",0,0,0,0,"0_9",2012
+"30",548318,68,"Royal Challengers Bangalore","Chennai Super Kings",2,6,40,170,"Chennai",0,0,1,0,"50_79",2012
+"31",548324,8,"Royal Challengers Bangalore","Rajasthan Royals",0,1,9,88.9,"Bangalore",0,0,0,0,"0_9",2012
+"32",548327,81,"Royal Challengers Bangalore","Pune Warriors",4,8,49,165.3,"Bangalore",1,0,1,0,"80_Plus",2012
+"33",548331,87,"Royal Challengers Bangalore","Kings XI Punjab",8,4,61,142.6,"Chandigarh",1,0,1,0,"80_Plus",2012
+"34",548336,4,"Royal Challengers Bangalore","Rajasthan Royals",0,0,8,50,"Jaipur",0,0,0,0,"0_9",2012
+"35",548344,86,"Royal Challengers Bangalore","Kolkata Knight Riders",7,6,59,145.8,"Kolkata",0,0,1,0,"80_Plus",2012
+"36",548350,71,"Royal Challengers Bangalore","Kings XI Punjab",6,4,44,161.4,"Bangalore",0,0,1,0,"50_79",2012
+"37",548356,26,"Royal Challengers Bangalore","Deccan Chargers",1,2,23,113,"Bangalore",0,0,0,0,"10_29",2012
+"38",548360,82,"Royal Challengers Bangalore","Mumbai Indians",5,6,59,139,"Mumbai",1,0,1,0,"80_Plus",2012
+"39",548362,57,"Royal Challengers Bangalore","Pune Warriors",3,6,32,178.1,"Pune",1,0,1,0,"50_79",2012
+"40",548367,6,"Royal Challengers Bangalore","Mumbai Indians",0,1,8,75,"Bangalore",0,0,0,0,"0_9",2012
+"41",548372,128,"Royal Challengers Bangalore","Delhi Daredevils",7,13,62,206.5,"Delhi",1,0,0,1,"80_Plus",2012
+"42",548376,27,"Royal Challengers Bangalore","Deccan Chargers",3,2,10,270,"Hyderabad",0,0,0,0,"10_29",2012
+"43",597999,92,"Royal Challengers Bangalore","Mumbai Indians",11,5,61,150.8,"Bangalore",1,0,1,0,"80_Plus",2013
+"44",598004,1,"Royal Challengers Bangalore","Sunrisers Hyderabad",0,0,2,50,"Hyderabad",0,0,0,0,"0_9",2013
+"45",598008,85,"Royal Challengers Bangalore","Kolkata Knight Riders",4,9,55,154.5,"Bangalore",1,0,1,0,"80_Plus",2013
+"46",598012,4,"Royal Challengers Bangalore","Chennai Super Kings",1,0,11,36.4,"Chennai",0,0,0,0,"0_9",2013
+"47",598017,13,"Royal Challengers Bangalore","Delhi Daredevils",0,2,10,130,"Bangalore",0,0,0,0,"10_29",2013
+"48",598023,49,"Royal Challengers Bangalore","Rajasthan Royals",4,1,49,100,"Bangalore",0,1,0,0,"30_49",2013
+"49",598027,175,"Royal Challengers Bangalore","Pune Warriors",13,17,69,253.6,"Bangalore",1,0,0,1,"80_Plus",2013
+"50",598033,18,"Royal Challengers Bangalore","Mumbai Indians",2,1,20,90,"Mumbai",0,0,0,0,"10_29",2013
+"51",598036,34,"Royal Challengers Bangalore","Rajasthan Royals",6,1,17,200,"Jaipur",0,1,0,0,"30_49",2013
+"52",598042,21,"Royal Challengers Bangalore","Pune Warriors",2,1,21,100,"Pune",0,0,0,0,"10_29",2013
+"53",598045,77,"Royal Challengers Bangalore","Kings XI Punjab",4,6,56,137.5,"Bangalore",0,0,1,0,"50_79",2013
+"54",598048,13,"Royal Challengers Bangalore","Sunrisers Hyderabad",2,0,15,86.7,"Bangalore",0,0,0,0,"10_29",2013
+"55",598054,4,"Royal Challengers Bangalore","Delhi Daredevils",1,0,7,57.1,"Delhi",0,0,0,0,"0_9",2013
+"56",598057,33,"Royal Challengers Bangalore","Kolkata Knight Riders",1,1,37,89.2,"Ranchi",0,1,0,0,"30_49",2013
+"57",598064,61,"Royal Challengers Bangalore","Kings XI Punjab",6,3,34,179.4,"Chandigarh",0,0,1,0,"50_79",2013
+"58",598068,28,"Royal Challengers Bangalore","Chennai Super Kings",0,4,14,200,"Bangalore",0,0,0,0,"10_29",2013
+"59",729313,20,"Royal Challengers Bangalore","Kings XI Punjab",2,2,7,285.7,"0",0,0,0,0,"10_29",2014
+"60",733977,27,"Royal Challengers Bangalore","Sunrisers Hyderabad",3,2,20,135,"Bangalore",0,0,0,0,"10_29",2014
+"61",733983,38,"Royal Challengers Bangalore","Mumbai Indians",3,3,25,152,"Mumbai",0,1,0,0,"30_49",2014
+"62",733991,4,"Royal Challengers Bangalore","Kings XI Punjab",1,0,7,57.1,"Bangalore",0,0,0,0,"0_9",2014
+"63",733999,19,"Royal Challengers Bangalore","Rajasthan Royals",3,0,25,76,"Bangalore",0,0,0,0,"10_29",2014
+"64",734005,22,"Royal Challengers Bangalore","Delhi Daredevils",1,2,23,95.7,"Bangalore",0,0,0,0,"10_29",2014
+"65",734013,46,"Royal Challengers Bangalore","Chennai Super Kings",3,3,52,88.5,"Ranchi",0,1,0,0,"30_49",2014
+"66",734021,14,"Royal Challengers Bangalore","Sunrisers Hyderabad",1,0,20,70,"Hyderabad",0,0,0,0,"10_29",2014
+"67",734027,6,"Royal Challengers Bangalore","Kolkata Knight Riders",1,0,9,66.7,"Kolkata",0,0,0,0,"0_9",2014
+"68",829713,96,"Royal Challengers Bangalore","Kolkata Knight Riders",7,7,57,168.4,"Kolkata",1,0,1,0,"80_Plus",2015
+"69",829719,21,"Royal Challengers Bangalore","Sunrisers Hyderabad",3,1,16,131.2,"Bangalore",0,0,0,0,"10_29",2015
+"70",829737,10,"Royal Challengers Bangalore","Mumbai Indians",0,0,31,32.3,"Bangalore",0,0,0,0,"10_29",2015
+"71",829749,20,"Royal Challengers Bangalore","Rajasthan Royals",3,1,17,117.6,"Ahmedabad",0,0,0,0,"10_29",2015
+"72",829757,62,"Royal Challengers Bangalore","Delhi Daredevils",6,4,42,147.6,"Delhi",0,0,1,0,"50_79",2015
+"73",829763,10,"Royal Challengers Bangalore","0",1,1,4,250,"Bangalore",0,0,0,0,"10_29",2015
+"74",829771,21,"Royal Challengers Bangalore","Kolkata Knight Riders",0,3,12,175,"Bangalore",0,0,0,0,"10_29",2015
+"75",829785,117,"Royal Challengers Bangalore","Kings XI Punjab",7,12,63,185.7,"Bangalore",1,0,0,1,"80_Plus",2015
+"76",829795,13,"Royal Challengers Bangalore","Mumbai Indians",1,1,13,100,"Mumbai",0,0,0,0,"10_29",2015
+"77",829803,17,"Royal Challengers Bangalore","Kings XI Punjab",1,1,15,113.3,"Chandigarh",0,0,0,0,"10_29",2015
+"78",829807,35,"Royal Challengers Bangalore","Sunrisers Hyderabad",4,3,11,318.2,"Hyderabad",0,1,0,0,"30_49",2015
+"79",829813,1,"Royal Challengers Bangalore","Delhi Daredevils",0,0,5,20,"Bangalore",0,0,0,0,"0_9",2015
+"80",829819,27,"Royal Challengers Bangalore","Rajasthan Royals",4,1,28,96.4,"Pune",0,0,0,0,"10_29",2015
+"81",829821,41,"Royal Challengers Bangalore","Chennai Super Kings",2,3,45,91.1,"Ranchi",0,1,0,0,"30_49",2015
+"82",980907,1,"Royal Challengers Bangalore","Sunrisers Hyderabad",0,0,5,20,"Bangalore",0,0,0,0,"0_9",2016
+"83",980921,0,"Royal Challengers Bangalore","Delhi Daredevils",0,0,3,0,"Bangalore",0,0,0,0,"0_9",2016
+"84",980959,7,"Royal Challengers Bangalore","Kolkata Knight Riders",0,1,7,100,"Bangalore",0,0,0,0,"0_9",2016
+"85",980981,5,"Royal Challengers Bangalore","Mumbai Indians",1,0,6,83.3,"Bangalore",0,0,0,0,"0_9",2016
+"86",980987,6,"Royal Challengers Bangalore","Gujarat Lions",1,0,13,46.2,"Bangalore",0,0,0,0,"0_9",2016
+"87",980995,49,"Royal Challengers Bangalore","Kolkata Knight Riders",5,4,31,158.1,"Kolkata",0,1,0,0,"30_49",2016
+"88",980999,73,"Royal Challengers Bangalore","Kings XI Punjab",4,8,35,208.6,"Bangalore",0,0,1,0,"50_79",2016
+"89",981011,1,"Royal Challengers Bangalore","Delhi Daredevils",0,0,4,25,"Raipur",0,0,0,0,"0_9",2016
+"90",981013,9,"Royal Challengers Bangalore","Gujarat Lions",2,0,14,64.3,"Bangalore",0,0,0,0,"0_9",2016
+"91",981019,76,"Royal Challengers Bangalore","Sunrisers Hyderabad",4,8,41,185.4,"Bangalore",0,0,1,0,"50_79",2016
+"92",1082591,32,"Royal Challengers Bangalore","Sunrisers Hyderabad",2,3,23,139.1,"Hyderabad",0,1,0,0,"30_49",2017
+"93",1082595,6,"Royal Challengers Bangalore","Delhi Daredevils",1,0,9,66.7,"Bengaluru",0,0,0,0,"0_9",2017
+"94",1082602,22,"Royal Challengers Bangalore","Mumbai Indians",2,1,28,78.6,"Bangalore",0,0,0,0,"10_29",2017
+"95",1082610,77,"Royal Challengers Bangalore","Gujarat Lions",5,7,40,192.5,"Rajkot",1,0,1,0,"50_79",2017
+"96",1082617,7,"Royal Challengers Bangalore","Kolkata Knight Riders",1,0,18,38.9,"Kolkata",0,0,0,0,"0_9",2017
+"97",1082621,8,"Royal Challengers Bangalore","Gujarat Lions",1,0,12,66.7,"Bangalore",0,0,0,0,"0_9",2017
+"98",1082633,0,"Royal Challengers Bangalore","Kings XI Punjab",0,0,2,0,"Bangalore",0,0,0,0,"0_9",2017
+"99",1082636,0,"Royal Challengers Bangalore","Kolkata Knight Riders",0,0,1,0,"Bangalore",0,0,0,0,"0_9",2017
+"100",1082646,48,"Royal Challengers Bangalore","Delhi Daredevils",3,3,39,123.1,"Delhi",0,1,0,0,"30_49",2017
+"101",335984,21,"Rajasthan Royals","Delhi Daredevils",4,0,15,140,"Delhi",0,0,0,0,"10_29",2008
+"102",335987,76,"Rajasthan Royals","Kings XI Punjab",5,5,51,149,"Jaipur",1,0,1,0,"50_79",2008
+"103",335990,4,"Rajasthan Royals","Deccan Chargers",0,0,6,66.7,"Hyderabad",0,0,0,0,"0_9",2008
+"104",335992,61,"Rajasthan Royals","Royal Challengers Bangalore",8,2,43,141.9,"Bangalore",1,0,1,0,"50_79",2008
+"105",336000,0,"Rajasthan Royals","Kolkata Knight Riders",0,0,1,0,"Jaipur",0,0,0,0,"0_9",2008
+"106",336005,14,"Rajasthan Royals","Chennai Super Kings",1,1,8,175,"Jaipur",0,0,0,0,"10_29",2008
+"107",336008,32,"Rajasthan Royals","Mumbai Indians",4,1,22,145.5,"Mumbai",0,1,0,0,"30_49",2008
+"108",336011,5,"Rajasthan Royals","Deccan Chargers",1,0,2,250,"Jaipur",0,0,0,0,"0_9",2008
+"109",336015,74,"Rajasthan Royals","Delhi Daredevils",5,5,42,176.2,"Jaipur",1,0,1,0,"50_79",2008
+"110",336019,22,"Rajasthan Royals","Kings XI Punjab",1,1,19,115.8,"Chandigarh",0,0,0,0,"10_29",2008
+"111",336023,46,"Rajasthan Royals","Royal Challengers Bangalore",6,0,28,164.3,"Jaipur",0,1,0,0,"30_49",2008
+"112",336027,19,"Rajasthan Royals","Kolkata Knight Riders",2,1,15,126.7,"Kolkata",0,0,0,0,"10_29",2008
+"113",336036,18,"Rajasthan Royals","Mumbai Indians",3,0,20,90,"Jaipur",0,0,0,0,"10_29",2008
+"114",336038,52,"Rajasthan Royals","Delhi Daredevils",4,3,30,173.3,"Mumbai",1,0,1,0,"50_79",2008
+"115",336040,28,"Rajasthan Royals","Chennai Super Kings",3,0,20,140,"Mumbai",0,0,0,0,"10_29",2008
+"116",419137,60,"Rajasthan Royals","Chennai Super Kings",5,5,26,230.8,"Chennai",0,0,1,0,"50_79",2010
+"117",419141,58,"Rajasthan Royals","Deccan Chargers",3,3,38,152.6,"Nagpur",0,0,1,0,"50_79",2010
+"118",419150,1,"Rajasthan Royals","Mumbai Indians",0,0,2,50,"Jaipur",0,0,0,0,"0_9",2010
+"119",419154,22,"Rajasthan Royals","Royal Challengers Bangalore",3,0,25,88,"Jaipur",0,0,0,0,"10_29",2010
+"120",419158,44,"Rajasthan Royals","Kolkata Knight Riders",7,1,26,169.2,"Kolkata",0,1,0,0,"30_49",2010
+"121",501209,22,"Rajasthan Royals","Kolkata Knight Riders",0,2,13,169.2,"Jaipur",0,0,0,0,"10_29",2011
+"122",501214,11,"Rajasthan Royals","Kolkata Knight Riders",2,0,13,84.6,"Kolkata",0,0,0,0,"10_29",2011
+"123",501220,24,"Rajasthan Royals","Kings XI Punjab",4,0,16,150,"Chandigarh",0,0,0,0,"10_29",2011
+"124",501225,49,"Rajasthan Royals","Kochi Tuskers Kerala",4,2,40,122.5,"Jaipur",0,1,0,0,"30_49",2011
+"125",501231,26,"Rajasthan Royals","Mumbai Indians",3,1,32,81.2,"Jaipur",0,0,0,0,"10_29",2011
+"126",501235,12,"Rajasthan Royals","Pune Warriors",0,1,14,85.7,"Jaipur",0,0,0,0,"10_29",2011
+"127",501240,32,"Rajasthan Royals","Chennai Super Kings",5,0,26,123.1,"Chennai",0,1,0,0,"30_49",2011
+"128",501249,11,"Rajasthan Royals","Chennai Super Kings",1,0,10,110,"Jaipur",0,0,0,0,"10_29",2011
+"129",501252,34,"Rajasthan Royals","Royal Challengers Bangalore",3,2,30,113.3,"Jaipur",0,1,0,0,"30_49",2011
+"130",501258,20,"Rajasthan Royals","Kochi Tuskers Kerala",0,3,13,153.8,"Indore",0,0,0,0,"10_29",2011
+"131",501263,89,"Rajasthan Royals","Mumbai Indians",9,6,49,181.6,"Mumbai",1,0,1,0,"80_Plus",2011
+"132",548349,8,"Rajasthan Royals","Delhi Daredevils",0,1,9,88.9,"Jaipur",0,0,0,0,"0_9",2012
+"133",548354,36,"Rajasthan Royals","Kings XI Punjab",4,2,18,200,"Chandigarh",1,1,0,0,"30_49",2012
+"134",548358,90,"Rajasthan Royals","Pune Warriors",10,4,51,176.5,"Pune",1,0,1,0,"80_Plus",2012
+"135",548361,5,"Rajasthan Royals","Chennai Super Kings",1,0,11,45.5,"Jaipur",0,0,0,0,"0_9",2012
+"136",548365,58,"Rajasthan Royals","Pune Warriors",6,4,31,187.1,"Jaipur",0,0,1,0,"50_79",2012
+"137",548373,13,"Rajasthan Royals","Deccan Chargers",1,1,13,100,"Hyderabad",0,0,0,0,"10_29",2012
+"138",548377,45,"Rajasthan Royals","Mumbai Indians",4,2,38,118.4,"Jaipur",0,1,0,0,"30_49",2012
+"139",598005,5,"Rajasthan Royals","Kolkata Knight Riders",1,0,11,45.5,"Jaipur",0,0,0,0,"0_9",2013
+"140",598014,32,"Rajasthan Royals","Kings XI Punjab",7,0,21,152.4,"Jaipur",0,1,0,0,"30_49",2013
+"141",598019,31,"Rajasthan Royals","Mumbai Indians",5,1,25,124,"Jaipur",0,1,0,0,"30_49",2013
+"142",598023,6,"Rajasthan Royals","Royal Challengers Bangalore",1,0,9,66.7,"Bangalore",0,0,0,0,"0_9",2013
+"143",598026,101,"Rajasthan Royals","Chennai Super Kings",6,6,64,157.8,"Chennai",0,0,0,1,"80_Plus",2013
+"144",598032,98,"Rajasthan Royals","Sunrisers Hyderabad",13,4,53,184.9,"Jaipur",0,0,1,0,"80_Plus",2013
+"145",598036,41,"Rajasthan Royals","Royal Challengers Bangalore",3,1,32,128.1,"Jaipur",0,1,0,0,"30_49",2013
+"146",598043,35,"Rajasthan Royals","Kolkata Knight Riders",4,0,39,89.7,"Kolkata",0,1,0,0,"30_49",2013
+"147",598047,5,"Rajasthan Royals","Pune Warriors",1,0,5,100,"Jaipur",0,0,0,0,"0_9",2013
+"148",598049,28,"Rajasthan Royals","Delhi Daredevils",3,1,14,200,"Jaipur",0,0,0,0,"10_29",2013
+"149",598052,31,"Rajasthan Royals","Kings XI Punjab",3,1,25,124,"Chandigarh",0,1,0,0,"30_49",2013
+"150",598058,70,"Rajasthan Royals","Chennai Super Kings",6,6,34,205.9,"Jaipur",1,0,1,0,"50_79",2013
+"151",598063,19,"Rajasthan Royals","Mumbai Indians",0,2,17,111.8,"Mumbai",0,0,0,0,"10_29",2013
+"152",598065,11,"Rajasthan Royals","Sunrisers Hyderabad",0,0,21,52.4,"Hyderabad",0,0,0,0,"10_29",2013
+"153",598071,24,"Rajasthan Royals","Sunrisers Hyderabad",5,0,15,160,"Delhi",0,0,0,0,"10_29",2013
+"154",598072,6,"Rajasthan Royals","Mumbai Indians",1,0,8,75,"Kolkata",0,0,0,0,"0_9",2013
+"155",729285,3,"Rajasthan Royals","Sunrisers Hyderabad",0,0,7,42.9,"Abu Dhabi",0,0,0,0,"0_9",2014
+"156",729291,50,"Rajasthan Royals","Kings XI Punjab",5,3,30,166.7,"0",0,0,1,0,"50_79",2014
+"157",729297,7,"Rajasthan Royals","Chennai Super Kings",0,1,6,116.7,"0",0,0,0,0,"0_9",2014
+"158",729305,24,"Rajasthan Royals","Royal Challengers Bangalore",1,2,24,100,"Abu Dhabi",0,0,0,0,"10_29",2014
+"159",729315,33,"Rajasthan Royals","Kolkata Knight Riders",5,0,24,137.5,"Abu Dhabi",0,1,0,0,"30_49",2014
+"160",733975,16,"Rajasthan Royals","Delhi Daredevils",0,2,10,160,"Delhi",0,0,0,0,"10_29",2014
+"161",733979,31,"Rajasthan Royals","Kolkata Knight Riders",2,2,21,147.6,"Ahmedabad",0,1,0,0,"30_49",2014
+"162",733989,11,"Rajasthan Royals","Sunrisers Hyderabad",1,0,11,100,"Ahmedabad",0,0,0,0,"10_29",2014
+"163",733999,1,"Rajasthan Royals","Royal Challengers Bangalore",0,0,5,20,"Bangalore",0,0,0,0,"0_9",2014
+"164",734003,51,"Rajasthan Royals","Chennai Super Kings",3,4,39,130.8,"Ranchi",0,0,1,0,"50_79",2014
+"165",734017,5,"Rajasthan Royals","Mumbai Indians",1,0,6,83.3,"Ahmedabad",0,0,0,0,"0_9",2014
+"166",734033,0,"Rajasthan Royals","Kings XI Punjab",0,0,1,0,"Chandigarh",0,0,0,0,"0_9",2014
+"167",734041,8,"Rajasthan Royals","Mumbai Indians",1,0,18,44.4,"Mumbai",0,0,0,0,"0_9",2014
+"168",829735,73,"Rajasthan Royals","Chennai Super Kings",6,4,48,152.1,"Ahmedabad",0,0,1,0,"50_79",2015
+"169",829741,45,"Rajasthan Royals","Kings XI Punjab",5,2,38,118.4,"Ahmedabad",0,1,0,0,"30_49",2015
+"170",829749,26,"Rajasthan Royals","Royal Challengers Bangalore",4,1,23,113,"Ahmedabad",0,0,0,0,"10_29",2015
+"171",829769,28,"Rajasthan Royals","Mumbai Indians",2,2,25,112,"Mumbai",0,0,0,0,"10_29",2015
+"172",829777,21,"Rajasthan Royals","Delhi Daredevils",4,0,26,80.8,"Mumbai",0,0,0,0,"10_29",2015
+"173",829787,12,"Rajasthan Royals","Sunrisers Hyderabad",3,0,12,100,"Mumbai",0,0,0,0,"10_29",2015
+"174",829797,28,"Rajasthan Royals","Chennai Super Kings",2,0,30,93.3,"Chennai",0,0,0,0,"10_29",2015
+"175",829811,104,"Rajasthan Royals","Kolkata Knight Riders",9,5,62,167.7,"Mumbai",1,0,0,1,"80_Plus",2015
+"176",829819,10,"Rajasthan Royals","Royal Challengers Bangalore",2,0,5,200,"Pune",0,0,0,0,"10_29",2015
+"177",980907,19,"Royal Challengers Bangalore","Sunrisers Hyderabad",0,3,9,211.1,"Bangalore",0,0,0,0,"10_29",2016
+"178",980921,33,"Royal Challengers Bangalore","Delhi Daredevils",2,3,19,173.7,"Bangalore",0,1,0,0,"30_49",2016
+"179",980927,5,"Royal Challengers Bangalore","Mumbai Indians",0,0,10,50,"Mumbai",0,0,0,0,"0_9",2016
+"180",980931,1,"Royal Challengers Bangalore","Rising Pune Supergiants",0,0,1,100,"Pune",0,0,0,0,"0_9",2016
+"181",980937,6,"Royal Challengers Bangalore","Gujarat Lions",1,0,6,100,"Rajkot",0,0,0,0,"0_9",2016
+"182",980953,2,"Royal Challengers Bangalore","Sunrisers Hyderabad",0,0,3,66.7,"Hyderabad",0,0,0,0,"0_9",2016
+"183",980959,34,"Royal Challengers Bangalore","Kolkata Knight Riders",5,1,21,161.9,"Bangalore",0,1,0,0,"30_49",2016
+"184",980969,36,"Royal Challengers Bangalore","Rising Pune Supergiants",5,2,13,276.9,"Bangalore",0,1,0,0,"30_49",2016
+"185",980977,1,"Royal Challengers Bangalore","Kings XI Punjab",0,0,3,33.3,"Chandigarh",1,0,0,0,"0_9",2016
+"186",980981,15,"Royal Challengers Bangalore","Mumbai Indians",1,1,14,107.1,"Bangalore",0,0,0,0,"10_29",2016
+"187",980987,0,"Royal Challengers Bangalore","Gujarat Lions",0,0,1,0,"Bangalore",0,0,0,0,"0_9",2016
+"188",980999,1,"Royal Challengers Bangalore","Kings XI Punjab",0,0,2,50,"Bangalore",0,0,0,0,"0_9",2016
+"189",981011,14,"Royal Challengers Bangalore","Delhi Daredevils",0,1,18,77.8,"Raipur",0,0,0,0,"10_29",2016
+"190",981013,1,"Royal Challengers Bangalore","Gujarat Lions",0,0,6,16.7,"Bangalore",0,0,0,0,"0_9",2016
+"191",981019,11,"Royal Challengers Bangalore","Sunrisers Hyderabad",0,1,9,122.2,"Bangalore",0,0,0,0,"10_29",2016
+"192",1082591,22,"Royal Challengers Bangalore","Sunrisers Hyderabad",1,1,17,129.4,"Hyderabad",0,0,0,0,"10_29",2017
+"193",1082595,24,"Royal Challengers Bangalore","Delhi Daredevils",4,0,25,96,"Bengaluru",0,0,0,0,"10_29",2017
+"194",1082598,1,"Royal Challengers Bangalore","Kings XI Punjab",0,0,4,25,"Indore",0,0,0,0,"0_9",2017
+"195",1082607,14,"Royal Challengers Bangalore","Rising Pune Supergiant",1,0,18,77.8,"Bangalore",0,0,0,0,"10_29",2017
+"196",1082628,3,"Royal Challengers Bangalore","Mumbai Indians",0,0,5,60,"Mumbai",0,0,0,0,"0_9",2017
+"197",1082633,3,"Royal Challengers Bangalore","Kings XI Punjab",0,0,6,50,"Bangalore",0,0,0,0,"0_9",2017
+"198",1082646,4,"Royal Challengers Bangalore","Delhi Daredevils",0,0,5,80,"Delhi",0,0,0,0,"0_9",2017
+"199",419114,10,"Mumbai Indians","Delhi Daredevils",2,0,8,125,"Delhi",0,0,0,0,"10_29",2010
+"200",419119,21,"Mumbai Indians","Royal Challengers Bangalore",1,1,19,110.5,"Mumbai",0,0,0,0,"10_29",2010
+"201",419122,7,"Mumbai Indians","Kolkata Knight Riders",1,0,7,100,"Mumbai",0,0,0,0,"0_9",2010
+"202",419125,20,"Mumbai Indians","Chennai Super Kings",3,1,9,222.2,"Mumbai",0,0,0,0,"10_29",2010
+"203",419130,1,"Mumbai Indians","Deccan Chargers",0,0,5,20,"Mumbai",0,0,0,0,"0_9",2010
+"204",419132,20,"Mumbai Indians","Kings XI Punjab",2,1,14,142.9,"Mumbai",0,0,0,0,"10_29",2010
+"205",419138,21,"Mumbai Indians","Deccan Chargers",3,0,10,210,"Mumbai",0,0,0,0,"10_29",2010
+"206",419142,5,"Mumbai Indians","Chennai Super Kings",0,0,6,83.3,"Chennai",0,0,0,0,"0_9",2010
+"207",419146,18,"Mumbai Indians","Kings XI Punjab",2,0,14,128.6,"Chandigarh",0,0,0,0,"10_29",2010
+"208",419150,25,"Mumbai Indians","Rajasthan Royals",3,1,14,178.6,"Jaipur",0,0,0,0,"10_29",2010
+"209",419152,45,"Mumbai Indians","Delhi Daredevils",2,5,13,346.2,"Mumbai",1,1,0,0,"30_49",2010
+"210",419157,20,"Mumbai Indians","Royal Challengers Bangalore",0,3,9,222.2,"Bangalore",0,0,0,0,"10_29",2010
+"211",419162,33,"Mumbai Indians","Royal Challengers Bangalore",1,3,14,235.7,"Mumbai",1,1,0,0,"30_49",2010
+"212",419165,27,"Mumbai Indians","Chennai Super Kings",3,2,10,270,"Mumbai",0,0,0,0,"10_29",2010
+"213",501221,0,"Mumbai Indians","Chennai Super Kings",0,0,2,0,"Mumbai",0,0,0,0,"0_9",2011
+"214",501224,0,"Mumbai Indians","Deccan Chargers",0,0,1,0,"Hyderabad",0,0,0,0,"0_9",2011
+"215",501231,4,"Mumbai Indians","Rajasthan Royals",0,0,16,25,"Jaipur",0,0,0,0,"0_9",2011
+"216",501237,20,"Mumbai Indians","Kings XI Punjab",1,2,11,181.8,"Mumbai",1,0,0,0,"10_29",2011
+"217",501241,28,"Mumbai Indians","Pune Warriors",2,2,23,121.7,"Mumbai",0,0,0,0,"10_29",2011
+"218",501246,9,"Mumbai Indians","Delhi Daredevils",1,0,9,100,"Mumbai",0,0,0,0,"0_9",2011
+"219",501251,17,"Mumbai Indians","Kings XI Punjab",1,1,13,130.8,"Chandigarh",0,0,0,0,"10_29",2011
+"220",501256,24,"Mumbai Indians","Deccan Chargers",3,1,14,171.4,"Mumbai",0,0,0,0,"10_29",2011
+"221",501263,20,"Mumbai Indians","Rajasthan Royals",2,0,18,111.1,"Mumbai",0,0,0,0,"10_29",2011
+"222",501267,18,"Mumbai Indians","Kolkata Knight Riders",2,0,23,78.3,"Kolkata",0,0,0,0,"10_29",2011
+"223",501269,3,"Mumbai Indians","Kolkata Knight Riders",0,0,5,60,"Mumbai",0,0,0,0,"0_9",2011
+"224",501270,3,"Mumbai Indians","Royal Challengers Bangalore",0,0,6,50,"Chennai",0,0,0,0,"0_9",2011
+"225",548308,8,"Mumbai Indians","Pune Warriors",0,0,11,72.7,"Mumbai",0,0,0,0,"0_9",2012
+"226",548314,24,"Mumbai Indians","Deccan Chargers",0,3,18,133.3,"Visakhapatnam",0,0,0,0,"10_29",2012
+"227",548317,64,"Mumbai Indians","Rajasthan Royals",6,4,33,193.9,"Mumbai",1,0,1,0,"50_79",2012
+"228",548325,1,"Mumbai Indians","Delhi Daredevils",0,0,4,25,"Mumbai",0,0,0,0,"0_9",2012
+"229",548334,7,"Mumbai Indians","Kings XI Punjab",1,0,10,70,"Mumbai",0,0,0,0,"0_9",2012
+"230",548339,3,"Mumbai Indians","Kings XI Punjab",0,0,8,37.5,"Chandigarh",0,0,0,0,"0_9",2012
+"231",548342,16,"Mumbai Indians","Delhi Daredevils",1,1,9,177.8,"Delhi",0,0,0,0,"10_29",2012
+"232",548360,21,"Mumbai Indians","Royal Challengers Bangalore",0,2,13,161.5,"Mumbai",0,0,0,0,"10_29",2012
+"233",548367,52,"Mumbai Indians","Royal Challengers Bangalore",5,3,32,162.5,"Bangalore",0,0,1,0,"50_79",2012
+"234",548370,8,"Mumbai Indians","Kolkata Knight Riders",1,0,5,160,"Mumbai",0,0,0,0,"0_9",2012
+"235",548379,16,"Mumbai Indians","Chennai Super Kings",1,1,20,80,"Bangalore",0,0,0,0,"10_29",2012
+"236",597999,5,"Mumbai Indians","Royal Challengers Bangalore",1,0,2,250,"Bangalore",0,0,0,0,"0_9",2013
+"237",598002,57,"Mumbai Indians","Chennai Super Kings",4,5,40,142.5,"Chennai",1,0,1,0,"50_79",2013
+"238",598006,13,"Mumbai Indians","Delhi Daredevils",1,1,8,162.5,"Mumbai",0,0,0,0,"10_29",2013
+"239",598011,19,"Mumbai Indians","Pune Warriors",1,1,15,126.7,"Mumbai",0,0,0,0,"10_29",2013
+"240",598019,1,"Mumbai Indians","Rajasthan Royals",0,0,7,14.3,"Jaipur",0,0,0,0,"0_9",2013
+"241",598024,19,"Mumbai Indians","Delhi Daredevils",1,1,10,190,"Delhi",0,0,0,0,"10_29",2013
+"242",598029,33,"Mumbai Indians","Kolkata Knight Riders",2,1,24,137.5,"Kolkata",0,1,0,0,"30_49",2013
+"243",598033,34,"Mumbai Indians","Royal Challengers Bangalore",2,3,17,200,"Mumbai",0,1,0,0,"30_49",2013
+"244",598037,20,"Mumbai Indians","Kings XI Punjab",1,1,22,90.9,"Mumbai",0,0,0,0,"10_29",2013
+"245",598039,14,"Mumbai Indians","Sunrisers Hyderabad",1,0,19,73.7,"Hyderabad",0,0,0,0,"10_29",2013
+"246",598046,1,"Mumbai Indians","Chennai Super Kings",0,0,3,33.3,"Mumbai",0,0,0,0,"0_9",2013
+"247",598050,4,"Mumbai Indians","Kolkata Knight Riders",1,0,4,100,"Mumbai",0,0,0,0,"0_9",2013
+"248",598060,66,"Mumbai Indians","Sunrisers Hyderabad",2,8,27,244.4,"Mumbai",1,0,1,0,"50_79",2013
+"249",598063,17,"Mumbai Indians","Rajasthan Royals",1,1,16,106.2,"Mumbai",0,0,0,0,"10_29",2013
+"250",598066,22,"Mumbai Indians","Kings XI Punjab",1,1,22,100,"Dharamsala",0,0,0,0,"10_29",2013
+"251",598070,24,"Mumbai Indians","Chennai Super Kings",1,2,16,150,"Delhi",0,0,0,0,"10_29",2013
+"252",598072,11,"Mumbai Indians","Rajasthan Royals",0,1,6,183.3,"Kolkata",0,0,0,0,"10_29",2013
+"253",598073,60,"Mumbai Indians","Chennai Super Kings",7,3,32,187.5,"Kolkata",1,0,1,0,"50_79",2013
+"254",729279,6,"Mumbai Indians","Kolkata Knight Riders",0,0,9,66.7,"Abu Dhabi",0,0,0,0,"0_9",2014
+"255",729287,3,"Mumbai Indians","Royal Challengers Bangalore",0,0,7,42.9,"0",0,0,0,0,"0_9",2014
+"256",729303,12,"Mumbai Indians","Chennai Super Kings",1,0,11,109.1,"0",0,0,0,0,"10_29",2014
+"257",729309,33,"Mumbai Indians","Delhi Daredevils",2,2,30,110,"0",0,1,0,0,"30_49",2014
+"258",729317,78,"Mumbai Indians","Sunrisers Hyderabad",3,6,50,156,"0",0,0,1,0,"50_79",2014
+"259",733973,28,"Mumbai Indians","Kings XI Punjab",2,2,13,215.4,"Mumbai",0,0,0,0,"10_29",2014
+"260",733983,43,"Mumbai Indians","Royal Challengers Bangalore",6,0,32,134.4,"Mumbai",0,1,0,0,"30_49",2014
+"261",733995,0,"Mumbai Indians","Chennai Super Kings",0,0,1,0,"Mumbai",0,0,0,0,"0_9",2014
+"262",734001,6,"Mumbai Indians","Sunrisers Hyderabad",0,0,7,85.7,"Hyderabad",0,0,0,0,"0_9",2014
+"263",734009,10,"Mumbai Indians","Kolkata Knight Riders",0,0,11,90.9,"Cuttack",0,0,0,0,"10_29",2014
+"264",734017,14,"Mumbai Indians","Rajasthan Royals",0,1,12,116.7,"Ahmedabad",0,0,0,0,"10_29",2014
+"265",734025,8,"Mumbai Indians","Kings XI Punjab",0,1,6,133.3,"Chandigarh",0,0,0,0,"0_9",2014
+"266",734031,11,"Mumbai Indians","Delhi Daredevils",0,1,8,137.5,"Mumbai",0,0,0,0,"10_29",2014
+"267",734041,7,"Mumbai Indians","Rajasthan Royals",0,1,3,233.3,"Mumbai",0,0,0,0,"0_9",2014
+"268",734045,14,"Mumbai Indians","Chennai Super Kings",1,1,8,175,"Mumbai",0,0,0,0,"10_29",2014
+"269",829717,20,"Mumbai Indians","Kings XI Punjab",1,1,21,95.2,"Mumbai",0,0,0,0,"10_29",2015
+"270",829721,70,"Mumbai Indians","Rajasthan Royals",7,5,34,205.9,"Ahmedabad",0,0,1,0,"50_79",2015
+"271",829729,64,"Mumbai Indians","Chennai Super Kings",4,5,32,200,"Mumbai",0,0,1,0,"50_79",2015
+"272",829737,5,"Mumbai Indians","Royal Challengers Bangalore",1,0,3,166.7,"Bangalore",0,0,0,0,"0_9",2015
+"273",829747,10,"Mumbai Indians","Delhi Daredevils",0,1,8,125,"Delhi",0,0,0,0,"10_29",2015
+"274",829751,33,"Mumbai Indians","Sunrisers Hyderabad",3,1,28,117.9,"Mumbai",0,1,0,0,"30_49",2015
+"275",829769,24,"Mumbai Indians","Rajasthan Royals",2,1,15,160,"Mumbai",0,0,0,0,"10_29",2015
+"276",829775,7,"Mumbai Indians","Kings XI Punjab",0,0,8,87.5,"Chandigarh",0,0,0,0,"0_9",2015
+"277",829783,26,"Mumbai Indians","Delhi Daredevils",0,3,16,162.5,"Mumbai",0,0,0,0,"10_29",2015
+"278",829789,1,"Mumbai Indians","Chennai Super Kings",0,0,4,25,"Chennai",0,0,0,0,"0_9",2015
+"279",829795,49,"Mumbai Indians","Royal Challengers Bangalore",6,2,24,204.2,"Mumbai",0,1,0,0,"30_49",2015
+"280",829805,33,"Mumbai Indians","Kolkata Knight Riders",1,1,40,82.5,"Mumbai",0,1,0,0,"30_49",2015
+"281",829817,41,"Mumbai Indians","Chennai Super Kings",1,5,19,215.8,"Mumbai",1,1,0,0,"30_49",2015
+"282",829823,36,"Mumbai Indians","Chennai Super Kings",2,3,18,200,"Kolkata",0,1,0,0,"30_49",2015
+"283",980901,1,"Mumbai Indians","Rising Pune Supergiants",0,0,10,10,"Mumbai",0,0,0,0,"0_9",2016
+"284",980909,1,"Mumbai Indians","Kolkata Knight Riders",0,0,1,100,"Kolkata",0,0,0,0,"0_9",2016
+"285",980917,1,"Mumbai Indians","Gujarat Lions",0,0,3,33.3,"Mumbai",0,0,0,0,"0_9",2016
+"286",980927,39,"Mumbai Indians","Royal Challengers Bangalore",4,3,20,195,"Mumbai",0,1,0,0,"30_49",2016
+"287",980933,19,"Mumbai Indians","Delhi Daredevils",0,1,20,95,"Delhi",0,0,0,0,"10_29",2016
+"288",980941,10,"Mumbai Indians","Kings XI Punjab",0,0,9,111.1,"Chandigarh",0,0,0,0,"10_29",2016
+"289",980947,51,"Mumbai Indians","Kolkata Knight Riders",2,6,20,255,"Mumbai",0,0,1,0,"50_79",2016
+"290",980973,11,"Mumbai Indians","Sunrisers Hyderabad",2,0,13,84.6,"Visakhapatnam",0,0,0,0,"10_29",2016
+"291",980981,35,"Mumbai Indians","Royal Challengers Bangalore",3,2,23,152.2,"Bangalore",0,1,0,0,"30_49",2016
+"292",980985,27,"Mumbai Indians","Kings XI Punjab",0,3,20,135,"Visakhapatnam",0,0,0,0,"10_29",2016
+"293",980993,3,"Mumbai Indians","Delhi Daredevils",0,0,6,50,"Visakhapatnam",0,0,0,0,"0_9",2016
+"294",981007,9,"Mumbai Indians","Gujarat Lions",0,1,11,81.8,"Kanpur",0,0,0,0,"0_9",2016
+"295",1082592,27,"Mumbai Indians","Rising Pune Supergiant",3,1,17,158.8,"Pune",0,0,0,0,"10_29",2017
+"296",1082597,17,"Mumbai Indians","Kolkata Knight Riders",1,1,17,100,"Mumbai",0,0,0,0,"10_29",2017
+"297",1082600,11,"Mumbai Indians","Sunrisers Hyderabad",0,1,11,100,"Mumbai",0,0,0,0,"10_29",2017
+"298",1082602,70,"Mumbai Indians","Royal Challengers Bangalore",3,5,49,142.9,"Bangalore",1,0,1,0,"50_79",2017
+"299",1082606,39,"Mumbai Indians","Gujarat Lions",2,3,24,162.5,"Mumbai",0,1,0,0,"30_49",2017
+"300",1082614,26,"Mumbai Indians","Delhi Daredevils",4,0,31,83.9,"Mumbai",0,0,0,0,"10_29",2017
+"301",1082618,9,"Mumbai Indians","Rising Pune Supergiant",1,0,9,100,"Mumbai",0,0,0,0,"0_9",2017
+"302",1082625,15,"Mumbai Indians","Gujarat Lions",2,0,11,136.4,"Rajkot",0,0,0,0,"10_29",2017
+"303",1082628,17,"Mumbai Indians","Royal Challengers Bangalore",2,0,13,130.8,"Mumbai",0,0,0,0,"10_29",2017
+"304",1082635,63,"Mumbai Indians","Delhi Daredevils",5,4,38,165.8,"Delhi",0,0,1,0,"50_79",2017
+"305",1082638,5,"Mumbai Indians","Sunrisers Hyderabad",0,0,11,45.5,"Hyderabad",0,0,0,0,"0_9",2017
+"306",1082641,50,"Mumbai Indians","Kings XI Punjab",1,5,26,192.3,"Mumbai",0,0,1,0,"50_79",2017
+"307",1082644,13,"Mumbai Indians","Kolkata Knight Riders",0,1,11,118.2,"Kolkata",0,0,0,0,"10_29",2017
+"308",1082647,7,"Mumbai Indians","Rising Pune Supergiant",1,0,10,70,"Mumbai",0,0,0,0,"0_9",2017
+"309",1082649,9,"Mumbai Indians","Kolkata Knight Riders",1,0,10,90,"Bangalore",0,0,0,0,"0_9",2017
+"310",1082650,7,"Mumbai Indians","Rising Pune Supergiant",0,1,3,233.3,"Hyderabad",0,0,0,0,"0_9",2017
+"311",335983,23,"Kings XI Punjab","Chennai Super Kings",1,2,13,176.9,"Chandigarh",0,0,0,0,"10_29",2008
+"312",335987,57,"Kings XI Punjab","Rajasthan Royals",6,3,35,162.9,"Jaipur",0,0,1,0,"50_79",2008
+"313",335991,18,"Kings XI Punjab","Mumbai Indians",1,1,9,200,"Chandigarh",0,0,0,0,"10_29",2008
+"314",335995,40,"Kings XI Punjab","Delhi Daredevils",3,2,29,137.9,"Chandigarh",0,1,0,0,"30_49",2008
+"315",335999,14,"Kings XI Punjab","Deccan Chargers",2,0,10,140,"Hyderabad",0,0,0,0,"10_29",2008
+"316",336003,17,"Kings XI Punjab","Kolkata Knight Riders",2,1,10,170,"Chandigarh",0,0,0,0,"10_29",2008
+"317",336006,1,"Kings XI Punjab","Royal Challengers Bangalore",0,0,4,25,"Bangalore",0,0,0,0,"0_9",2008
+"318",336013,2,"Kings XI Punjab","Chennai Super Kings",0,0,5,40,"Chennai",0,0,0,0,"0_9",2008
+"319",336019,49,"Kings XI Punjab","Rajasthan Royals",2,6,16,306.2,"Chandigarh",0,1,0,0,"30_49",2008
+"320",336022,23,"Kings XI Punjab","Delhi Daredevils",1,3,8,287.5,"Delhi",0,0,0,0,"10_29",2008
+"321",336028,7,"Kings XI Punjab","Mumbai Indians",1,0,6,116.7,"Mumbai",0,0,0,0,"0_9",2008
+"322",336031,17,"Kings XI Punjab","Deccan Chargers",2,0,18,94.4,"Chandigarh",0,0,0,0,"10_29",2008
+"323",336035,27,"Kings XI Punjab","Kolkata Knight Riders",3,1,19,142.1,"Kolkata",0,0,0,0,"10_29",2008
+"324",336039,4,"Kings XI Punjab","Chennai Super Kings",0,0,9,44.4,"Mumbai",0,0,0,0,"0_9",2008
+"325",392183,16,"Kings XI Punjab","Delhi Daredevils",0,2,12,133.3,"Cape Town",0,0,0,0,"10_29",2009
+"326",392186,38,"Kings XI Punjab","Kolkata Knight Riders",3,2,32,118.8,"Durban",0,1,0,0,"30_49",2009
+"327",392191,30,"Kings XI Punjab","Royal Challengers Bangalore",3,1,18,166.7,"Durban",0,1,0,0,"30_49",2009
+"328",392195,2,"Kings XI Punjab","Rajasthan Royals",0,0,6,33.3,"Cape Town",0,0,0,0,"0_9",2009
+"329",392200,10,"Kings XI Punjab","Mumbai Indians",1,0,14,71.4,"Durban",0,0,0,0,"10_29",2009
+"330",392204,50,"Kings XI Punjab","Royal Challengers Bangalore",3,4,35,142.9,"Durban",1,0,1,0,"50_79",2009
+"331",392207,14,"Kings XI Punjab","Kolkata Knight Riders",1,0,17,82.4,"Port Elizabeth",0,0,0,0,"10_29",2009
+"332",392210,48,"Kings XI Punjab","Rajasthan Royals",3,3,44,109.1,"Durban",0,1,0,0,"30_49",2009
+"333",392214,58,"Kings XI Punjab","Chennai Super Kings",5,2,38,152.6,"Centurion",0,0,1,0,"50_79",2009
+"334",392216,18,"Kings XI Punjab","Deccan Chargers",1,1,13,138.5,"Kimberley",0,0,0,0,"10_29",2009
+"335",392222,12,"Kings XI Punjab","Mumbai Indians",2,0,18,66.7,"Centurion",0,0,0,0,"10_29",2009
+"336",392226,18,"Kings XI Punjab","Delhi Daredevils",1,0,32,56.2,"Bloemfontein",0,0,0,0,"10_29",2009
+"337",392229,20,"Kings XI Punjab","Deccan Chargers",2,1,18,111.1,"Johannesburg",1,0,0,0,"10_29",2009
+"338",392234,6,"Kings XI Punjab","Chennai Super Kings",0,0,20,30,"Durban",0,0,0,0,"0_9",2009
+"339",419108,4,"Kings XI Punjab","Delhi Daredevils",1,0,6,66.7,"Chandigarh",0,0,0,0,"0_9",2010
+"340",419112,9,"Kings XI Punjab","Royal Challengers Bangalore",1,0,6,150,"Bangalore",0,0,0,0,"0_9",2010
+"341",419117,4,"Kings XI Punjab","Deccan Chargers",1,0,6,66.7,"Cuttack",0,0,0,0,"0_9",2010
+"342",419121,43,"Kings XI Punjab","Chennai Super Kings",4,2,28,153.6,"Chennai",0,1,0,0,"30_49",2010
+"343",419124,15,"Kings XI Punjab","Rajasthan Royals",0,1,14,107.1,"Chandigarh",0,0,0,0,"10_29",2010
+"344",419127,24,"Kings XI Punjab","Kolkata Knight Riders",3,1,16,150,"Chandigarh",0,0,0,0,"10_29",2010
+"345",419132,2,"Kings XI Punjab","Mumbai Indians",0,0,3,66.7,"Mumbai",0,0,0,0,"0_9",2010
+"346",419136,36,"Kings XI Punjab","Royal Challengers Bangalore",3,2,20,180,"Chandigarh",0,1,0,0,"30_49",2010
+"347",419139,33,"Kings XI Punjab","Kolkata Knight Riders",2,3,16,206.2,"Kolkata",0,1,0,0,"30_49",2010
+"348",419143,28,"Kings XI Punjab","Rajasthan Royals",1,3,16,175,"Jaipur",0,0,0,0,"10_29",2010
+"349",419146,15,"Kings XI Punjab","Mumbai Indians",1,0,23,65.2,"Chandigarh",0,0,0,0,"10_29",2010
+"350",419149,21,"Kings XI Punjab","Delhi Daredevils",2,1,25,84,"Delhi",0,0,0,0,"10_29",2010
+"351",419156,20,"Kings XI Punjab","Deccan Chargers",1,1,21,95.2,"Dharamsala",0,0,0,0,"10_29",2010
+"352",419159,1,"Kings XI Punjab","Chennai Super Kings",0,0,4,25,"Dharamsala",0,0,0,0,"0_9",2010
+"353",501202,21,"Pune Warriors","Kings XI Punjab",2,1,16,131.2,"Mumbai",0,0,0,0,"10_29",2011
+"354",501207,8,"Pune Warriors","Kochi Tuskers Kerala",0,0,13,61.5,"Mumbai",0,0,0,0,"0_9",2011
+"355",501213,66,"Pune Warriors","Delhi Daredevils",4,5,34,194.1,"Mumbai",1,0,1,0,"50_79",2011
+"356",501218,0,"Pune Warriors","Mumbai Indians",0,0,2,0,"Mumbai",0,0,0,0,"0_9",2011
+"357",501226,34,"Pune Warriors","Chennai Super Kings",2,0,43,79.1,"Chennai",0,1,0,0,"30_49",2011
+"358",501228,62,"Pune Warriors","Chennai Super Kings",3,4,45,137.8,"Mumbai",0,0,1,0,"50_79",2011
+"359",501232,41,"Pune Warriors","Royal Challengers Bangalore",2,3,23,178.3,"Bangalore",0,1,0,0,"30_49",2011
+"360",501235,7,"Pune Warriors","Rajasthan Royals",0,0,11,63.6,"Jaipur",0,0,0,0,"0_9",2011
+"361",501241,20,"Pune Warriors","Mumbai Indians",1,2,16,125,"Mumbai",0,0,0,0,"10_29",2011
+"362",501248,35,"Pune Warriors","Kings XI Punjab",5,2,16,218.8,"Chandigarh",0,1,0,0,"30_49",2011
+"363",501250,2,"Pune Warriors","Deccan Chargers",0,0,6,33.3,"Hyderabad",0,0,0,0,"0_9",2011
+"364",501259,23,"Pune Warriors","Deccan Chargers",3,1,18,127.8,"Mumbai",0,0,0,0,"10_29",2011
+"365",501262,24,"Pune Warriors","Kolkata Knight Riders",2,0,26,92.3,"Mumbai",0,0,0,0,"10_29",2011
+"366",598000,2,"Pune Warriors","Sunrisers Hyderabad",0,0,5,40,"Hyderabad",0,0,0,0,"0_9",2013
+"367",598009,28,"Pune Warriors","Rajasthan Royals",2,2,23,121.7,"Pune",0,0,0,0,"10_29",2013
+"368",598011,24,"Pune Warriors","Mumbai Indians",1,2,16,150,"Mumbai",0,0,0,0,"10_29",2013
+"369",598025,34,"Pune Warriors","Kings XI Punjab",2,3,25,136,"Chandigarh",0,1,0,0,"30_49",2013
+"370",598027,16,"Pune Warriors","Royal Challengers Bangalore",2,0,14,114.3,"Bangalore",0,0,0,0,"10_29",2013
+"371",598035,31,"Pune Warriors","Delhi Daredevils",4,0,25,124,"Raipur",0,1,0,0,"30_49",2013
+"372",598038,5,"Pune Warriors","Chennai Super Kings",1,0,5,100,"Pune",0,0,0,0,"0_9",2013
+"373",598042,16,"Pune Warriors","Royal Challengers Bangalore",0,2,11,145.5,"Pune",0,0,0,0,"10_29",2013
+"374",598047,15,"Pune Warriors","Rajasthan Royals",1,1,11,136.4,"Jaipur",0,0,0,0,"10_29",2013
+"375",598053,1,"Pune Warriors","Kolkata Knight Riders",0,0,2,50,"Pune",0,0,0,0,"0_9",2013
+"376",598055,33,"Pune Warriors","Mumbai Indians",1,2,29,113.8,"Pune",0,1,0,0,"30_49",2013
+"377",598061,30,"Pune Warriors","Kolkata Knight Riders",0,3,20,150,"Ranchi",0,1,0,0,"30_49",2013
+"378",598067,3,"Pune Warriors","Delhi Daredevils",0,0,7,42.9,"Pune",0,0,0,0,"0_9",2013
+"379",729281,52,"Royal Challengers Bangalore","Delhi Daredevils",3,5,30,173.3,"0",0,0,1,0,"50_79",2014
+"380",729287,0,"Royal Challengers Bangalore","Mumbai Indians",0,0,2,0,"0",0,0,0,0,"0_9",2014
+"381",729299,31,"Royal Challengers Bangalore","Kolkata Knight Riders",2,1,35,88.6,"0",0,1,0,0,"30_49",2014
+"382",729305,3,"Royal Challengers Bangalore","Rajasthan Royals",0,0,7,42.9,"Abu Dhabi",0,0,0,0,"0_9",2014
+"383",729313,35,"Royal Challengers Bangalore","Kings XI Punjab",3,1,32,109.4,"0",0,1,0,0,"30_49",2014
+"384",733977,14,"Royal Challengers Bangalore","Sunrisers Hyderabad",1,1,16,87.5,"Bangalore",0,0,0,0,"10_29",2014
+"385",733983,6,"Royal Challengers Bangalore","Mumbai Indians",0,0,10,60,"Mumbai",0,0,0,0,"0_9",2014
+"386",733991,3,"Royal Challengers Bangalore","Kings XI Punjab",0,0,11,27.3,"Bangalore",0,0,0,0,"0_9",2014
+"387",733999,83,"Royal Challengers Bangalore","Rajasthan Royals",7,7,42,197.6,"Bangalore",0,0,1,0,"80_Plus",2014
+"388",734005,68,"Royal Challengers Bangalore","Delhi Daredevils",1,9,32,212.5,"Bangalore",1,0,1,0,"50_79",2014
+"389",734013,13,"Royal Challengers Bangalore","Chennai Super Kings",0,1,9,144.4,"Ranchi",0,0,0,0,"10_29",2014
+"390",734021,21,"Royal Challengers Bangalore","Sunrisers Hyderabad",2,1,25,84,"Hyderabad",0,0,0,0,"10_29",2014
+"391",734027,22,"Royal Challengers Bangalore","Kolkata Knight Riders",1,2,13,169.2,"Kolkata",0,0,0,0,"10_29",2014
+"392",734035,25,"Royal Challengers Bangalore","Chennai Super Kings",2,0,24,104.2,"Bangalore",0,0,0,0,"10_29",2014
+"393",829707,9,"Delhi Daredevils","Chennai Super Kings",1,0,6,150,"Chennai",0,0,0,0,"0_9",2015
+"394",829715,27,"Delhi Daredevils","Rajasthan Royals",0,2,17,158.8,"Delhi",0,0,0,0,"10_29",2015
+"395",829725,54,"Delhi Daredevils","Kings XI Punjab",5,3,41,131.7,"Pune",0,0,1,0,"50_79",2015
+"396",829731,9,"Delhi Daredevils","Sunrisers Hyderabad",0,0,13,69.2,"Visakhapatnam",0,0,0,0,"0_9",2015
+"397",829739,21,"Delhi Daredevils","Kolkata Knight Riders",2,1,19,110.5,"Delhi",0,0,0,0,"10_29",2015
+"398",829747,2,"Delhi Daredevils","Mumbai Indians",0,0,4,50,"Delhi",0,0,0,0,"0_9",2015
+"399",829757,2,"Delhi Daredevils","Royal Challengers Bangalore",0,0,5,40,"Delhi",0,0,0,0,"0_9",2015
+"400",829761,0,"Delhi Daredevils","Kolkata Knight Riders",0,0,3,0,"Kolkata",0,0,0,0,"0_9",2015
+"401",829777,22,"Delhi Daredevils","Rajasthan Royals",4,0,21,104.8,"Mumbai",0,0,0,0,"10_29",2015
+"402",829783,57,"Delhi Daredevils","Mumbai Indians",7,2,44,129.5,"Mumbai",0,0,1,0,"50_79",2015
+"403",829793,2,"Delhi Daredevils","Sunrisers Hyderabad",0,0,7,28.6,"Raipur",0,0,0,0,"0_9",2015
+"404",829801,32,"Delhi Daredevils","Chennai Super Kings",4,1,28,114.3,"Raipur",0,1,0,0,"30_49",2015
+"405",829813,11,"Delhi Daredevils","Royal Challengers Bangalore",0,1,7,157.1,"Bangalore",0,0,0,0,"10_29",2015
+"406",980967,5,"Sunrisers Hyderabad","Gujarat Lions",0,0,14,35.7,"Hyderabad",0,0,0,0,"0_9",2016
+"407",980973,39,"Sunrisers Hyderabad","Mumbai Indians",3,2,24,162.5,"Visakhapatnam",0,1,0,0,"30_49",2016
+"408",980979,23,"Sunrisers Hyderabad","Rising Pune Supergiants",1,2,21,109.5,"Visakhapatnam",0,0,0,0,"10_29",2016
+"409",980983,8,"Sunrisers Hyderabad","Delhi Daredevils",0,1,8,100,"Hyderabad",0,0,0,0,"0_9",2016
+"410",980991,42,"Sunrisers Hyderabad","Kings XI Punjab",3,3,25,168,"Chandigarh",0,1,0,0,"30_49",2016
+"411",981003,10,"Sunrisers Hyderabad","Delhi Daredevils",1,0,11,90.9,"Raipur",0,0,0,0,"10_29",2016
+"412",981009,19,"Sunrisers Hyderabad","Kolkata Knight Riders",1,2,12,158.3,"Kolkata",0,0,0,0,"10_29",2016
+"413",981015,44,"Sunrisers Hyderabad","Kolkata Knight Riders",8,1,31,141.9,"Delhi",0,1,0,0,"30_49",2016
+"414",981017,8,"Sunrisers Hyderabad","Gujarat Lions",1,0,13,61.5,"Delhi",0,0,0,0,"0_9",2016
+"415",981019,38,"Sunrisers Hyderabad","Royal Challengers Bangalore",4,2,24,158.3,"Bangalore",0,1,0,0,"30_49",2016
+"416",1082591,62,"Sunrisers Hyderabad","Royal Challengers Bangalore",7,3,30,206.7,"Hyderabad",1,0,1,0,"50_79",2017
+"417",1082600,5,"Sunrisers Hyderabad","Mumbai Indians",1,0,8,62.5,"Mumbai",0,0,0,0,"0_9",2017
+"418",1082604,26,"Sunrisers Hyderabad","Kolkata Knight Riders",2,2,18,144.4,"Kolkata",0,0,0,0,"10_29",2017
+"419",1082609,0,"Sunrisers Hyderabad","Kings XI Punjab",0,0,1,0,"Hyderabad",0,0,0,0,"0_9",2017
+"420",1082611,3,"Sunrisers Hyderabad","Delhi Daredevils",0,0,4,75,"Hyderabad",0,0,0,0,"0_9",2017
+"421",1082623,15,"Sunrisers Hyderabad","Kings XI Punjab",2,0,12,125,"Chandigarh",0,0,0,0,"10_29",2017
+"422",1082627,6,"Sunrisers Hyderabad","Kolkata Knight Riders",0,0,7,85.7,"Hyderabad",0,0,0,0,"0_9",2017
+"423",1082630,70,"Sunrisers Hyderabad","Delhi Daredevils",11,1,43,162.8,"Delhi",0,0,1,0,"50_79",2017
+"424",1082634,47,"Sunrisers Hyderabad","Rising Pune Supergiant",4,2,44,106.8,"Hyderabad",0,1,0,0,"30_49",2017
+"425",1082638,9,"Sunrisers Hyderabad","Mumbai Indians",1,0,12,75,"Hyderabad",0,0,0,0,"0_9",2017
+"426",1082648,9,"Sunrisers Hyderabad","Kolkata Knight Riders",2,0,9,100,"Bangalore",0,0,0,0,"0_9",2017
+"427",335984,10,"Rajasthan Royals","Delhi Daredevils",2,0,5,200,"Delhi",0,0,0,0,"10_29",2008
+"428",335987,7,"Rajasthan Royals","Kings XI Punjab",1,0,6,116.7,"Jaipur",0,0,0,0,"0_9",2008
+"429",335990,61,"Rajasthan Royals","Deccan Chargers",4,6,29,210.3,"Hyderabad",1,0,1,0,"50_79",2008
+"430",335992,21,"Rajasthan Royals","Royal Challengers Bangalore",5,0,12,175,"Bangalore",0,0,0,0,"10_29",2008
+"431",336000,55,"Rajasthan Royals","Kolkata Knight Riders",6,2,33,166.7,"Jaipur",0,0,1,0,"50_79",2008
+"432",336005,8,"Rajasthan Royals","Chennai Super Kings",0,1,6,133.3,"Jaipur",0,0,0,0,"0_9",2008
+"433",336008,1,"Rajasthan Royals","Mumbai Indians",0,0,3,33.3,"Mumbai",0,0,0,0,"0_9",2008
+"434",336011,68,"Rajasthan Royals","Deccan Chargers",9,2,41,165.9,"Jaipur",1,0,1,0,"50_79",2008
+"435",336015,8,"Rajasthan Royals","Delhi Daredevils",1,0,13,61.5,"Jaipur",0,0,0,0,"0_9",2008
+"436",336019,39,"Rajasthan Royals","Kings XI Punjab",3,3,15,260,"Chandigarh",0,1,0,0,"30_49",2008
+"437",336027,48,"Rajasthan Royals","Kolkata Knight Riders",5,3,20,240,"Kolkata",1,1,0,0,"30_49",2008
+"438",336033,6,"Rajasthan Royals","Chennai Super Kings",1,0,5,120,"Chennai",0,0,0,0,"0_9",2008
+"439",336036,2,"Rajasthan Royals","Mumbai Indians",0,0,4,50,"Jaipur",0,0,0,0,"0_9",2008
+"440",336038,45,"Rajasthan Royals","Delhi Daredevils",3,4,21,214.3,"Mumbai",0,1,0,0,"30_49",2008
+"441",336040,56,"Rajasthan Royals","Chennai Super Kings",3,4,40,140,"Mumbai",1,0,1,0,"50_79",2008
+"442",392182,11,"Rajasthan Royals","Royal Challengers Bangalore",1,0,15,73.3,"Cape Town",0,0,0,0,"10_29",2009
+"443",392190,42,"Rajasthan Royals","Kolkata Knight Riders",6,2,22,190.9,"Cape Town",1,1,0,0,"30_49",2009
+"444",392195,10,"Rajasthan Royals","Kings XI Punjab",2,0,13,76.9,"Cape Town",0,0,0,0,"10_29",2009
+"445",392198,62,"Rajasthan Royals","Delhi Daredevils",3,6,30,206.7,"Centurion",1,0,1,0,"50_79",2009
+"446",392202,20,"Rajasthan Royals","Chennai Super Kings",3,0,13,153.8,"Centurion",0,0,0,0,"10_29",2009
+"447",392205,24,"Rajasthan Royals","Deccan Chargers",2,2,14,171.4,"Port Elizabeth",1,0,0,0,"10_29",2009
+"448",392210,12,"Rajasthan Royals","Kings XI Punjab",1,1,7,171.4,"Durban",0,0,0,0,"10_29",2009
+"449",392213,22,"Rajasthan Royals","Royal Challengers Bangalore",2,0,21,104.8,"Centurion",0,0,0,0,"10_29",2009
+"450",392217,7,"Rajasthan Royals","Chennai Super Kings",0,1,11,63.6,"Kimberley",0,0,0,0,"0_9",2009
+"451",392220,6,"Rajasthan Royals","Deccan Chargers",0,0,7,85.7,"Kimberley",0,0,0,0,"0_9",2009
+"452",392225,17,"Rajasthan Royals","Mumbai Indians",3,0,14,121.4,"Durban",0,0,0,0,"10_29",2009
+"453",392230,1,"Rajasthan Royals","Delhi Daredevils",0,0,5,20,"Bloemfontein",0,0,0,0,"0_9",2009
+"454",392233,9,"Rajasthan Royals","Kolkata Knight Riders",1,0,16,56.2,"Durban",0,0,0,0,"0_9",2009
+"455",419107,100,"Rajasthan Royals","Mumbai Indians",9,8,40,250,"Mumbai",1,0,0,1,"80_Plus",2010
+"456",419111,0,"Rajasthan Royals","Delhi Daredevils",0,0,5,0,"Ahmedabad",0,0,0,0,"0_9",2010
+"457",419115,26,"Rajasthan Royals","Royal Challengers Bangalore",1,2,24,108.3,"Bangalore",0,0,0,0,"10_29",2010
+"458",419118,15,"Rajasthan Royals","Kolkata Knight Riders",2,0,14,107.1,"Ahmedabad",0,0,0,0,"10_29",2010
+"459",419124,28,"Rajasthan Royals","Kings XI Punjab",1,1,22,127.3,"Chandigarh",0,0,0,0,"10_29",2010
+"460",419126,73,"Rajasthan Royals","Deccan Chargers",2,8,35,208.6,"Ahmedabad",1,0,1,0,"50_79",2010
+"461",419129,8,"Rajasthan Royals","Chennai Super Kings",1,0,6,133.3,"Ahmedabad",0,0,0,0,"0_9",2010
+"462",419134,24,"Rajasthan Royals","Delhi Daredevils",2,2,14,171.4,"Delhi",0,0,0,0,"10_29",2010
+"463",419137,4,"Rajasthan Royals","Chennai Super Kings",1,0,2,200,"Chennai",0,0,0,0,"0_9",2010
+"464",419141,5,"Rajasthan Royals","Deccan Chargers",0,0,7,71.4,"Nagpur",0,0,0,0,"0_9",2010
+"465",419143,21,"Rajasthan Royals","Kings XI Punjab",0,2,14,150,"Jaipur",0,0,0,0,"10_29",2010
+"466",419150,10,"Rajasthan Royals","Mumbai Indians",0,1,8,125,"Jaipur",0,0,0,0,"10_29",2010
+"467",419154,11,"Rajasthan Royals","Royal Challengers Bangalore",2,0,10,110,"Jaipur",0,0,0,0,"10_29",2010
+"468",419158,8,"Rajasthan Royals","Kolkata Knight Riders",1,0,9,88.9,"Kolkata",0,0,0,0,"0_9",2010
+"469",501198,11,"Kolkata Knight Riders","Chennai Super Kings",0,1,12,91.7,"Chennai",0,0,0,0,"10_29",2011
+"470",501203,22,"Kolkata Knight Riders","Deccan Chargers",4,0,16,137.5,"Kolkata",0,0,0,0,"10_29",2011
+"471",501219,8,"Kolkata Knight Riders","Kochi Tuskers Kerala",0,1,3,266.7,"Kolkata",0,0,0,0,"0_9",2011
+"472",501222,46,"Kolkata Knight Riders","Royal Challengers Bangalore",3,3,26,176.9,"Kolkata",0,1,0,0,"30_49",2011
+"473",501230,5,"Kolkata Knight Riders","Delhi Daredevils",0,0,9,55.6,"Delhi",0,0,0,0,"0_9",2011
+"474",501239,47,"Kolkata Knight Riders","Deccan Chargers",3,3,26,180.8,"Hyderabad",1,1,0,0,"30_49",2011
+"475",501242,17,"Kolkata Knight Riders","Kochi Tuskers Kerala",2,0,13,130.8,"Kochi",0,0,0,0,"10_29",2011
+"476",501255,36,"Kolkata Knight Riders","Royal Challengers Bangalore",2,3,24,150,"Bangalore",0,1,0,0,"30_49",2011
+"477",501262,29,"Kolkata Knight Riders","Pune Warriors",3,1,25,116,"Mumbai",1,0,0,0,"10_29",2011
+"478",501267,36,"Kolkata Knight Riders","Mumbai Indians",4,1,27,133.3,"Kolkata",0,1,0,0,"30_49",2011
+"479",501269,26,"Kolkata Knight Riders","Mumbai Indians",3,0,24,108.3,"Mumbai",0,0,0,0,"10_29",2011
+"480",548307,0,"Kolkata Knight Riders","Delhi Daredevils",0,0,4,0,"Kolkata",0,0,0,0,"0_9",2012
+"481",548312,15,"Kolkata Knight Riders","Rajasthan Royals",0,1,16,93.8,"Jaipur",0,0,0,0,"10_29",2012
+"482",548315,1,"Kolkata Knight Riders","Royal Challengers Bangalore",0,0,3,33.3,"Bangalore",0,0,0,0,"0_9",2012
+"483",548320,7,"Kolkata Knight Riders","Rajasthan Royals",1,0,8,87.5,"Kolkata",0,0,0,0,"0_9",2012
+"484",548323,0,"Kolkata Knight Riders","Kings XI Punjab",0,0,3,0,"Kolkata",0,0,0,0,"0_9",2012
+"485",548335,6,"Kolkata Knight Riders","Deccan Chargers",0,1,5,120,"Cuttack",0,0,0,0,"0_9",2012
+"486",548344,7,"Kolkata Knight Riders","Royal Challengers Bangalore",0,1,4,175,"Kolkata",0,0,0,0,"0_9",2012
+"487",548347,12,"Kolkata Knight Riders","Chennai Super Kings",0,0,11,109.1,"Chennai",0,0,0,0,"10_29",2012
+"488",548353,11,"Kolkata Knight Riders","Pune Warriors",0,0,16,68.8,"Kolkata",0,0,0,0,"10_29",2012
+"489",548357,7,"Kolkata Knight Riders","Delhi Daredevils",0,0,14,50,"Delhi",0,0,0,0,"0_9",2012
+"490",548363,40,"Kolkata Knight Riders","Mumbai Indians",2,1,32,125,"Kolkata",0,1,0,0,"30_49",2012
+"491",548368,11,"Kolkata Knight Riders","Chennai Super Kings",0,1,8,137.5,"Kolkata",0,0,0,0,"10_29",2012
+"492",548370,21,"Kolkata Knight Riders","Mumbai Indians",2,0,21,100,"Mumbai",0,0,0,0,"10_29",2012
+"493",548375,15,"Kolkata Knight Riders","Pune Warriors",2,0,10,150,"Pune",0,0,0,0,"10_29",2012
+"494",548378,40,"Kolkata Knight Riders","Delhi Daredevils",3,2,22,181.8,"Pune",1,1,0,0,"30_49",2012
+"495",548381,1,"Kolkata Knight Riders","Chennai Super Kings",0,0,2,50,"Chennai",0,0,0,0,"0_9",2012
+"496",597998,18,"Kolkata Knight Riders","Delhi Daredevils",0,1,17,105.9,"Kolkata",0,0,0,0,"10_29",2013
+"497",598005,0,"Kolkata Knight Riders","Rajasthan Royals",0,0,2,0,"Jaipur",0,0,0,0,"0_9",2013
+"498",598008,27,"Kolkata Knight Riders","Royal Challengers Bangalore",3,1,17,158.8,"Bangalore",0,0,0,0,"10_29",2013
+"499",598013,3,"Kolkata Knight Riders","Sunrisers Hyderabad",0,0,3,100,"Kolkata",0,0,0,0,"0_9",2013
+"500",598016,13,"Kolkata Knight Riders","Kings XI Punjab",2,0,18,72.2,"Chandigarh",0,0,0,0,"10_29",2013
+"501",598022,25,"Kolkata Knight Riders","Chennai Super Kings",4,0,22,113.6,"Kolkata",0,0,0,0,"10_29",2013
+"502",598029,19,"Kolkata Knight Riders","Mumbai Indians",3,1,7,271.4,"Kolkata",0,0,0,0,"10_29",2013
+"503",598031,0,"Kolkata Knight Riders","Kings XI Punjab",0,0,1,0,"Kolkata",0,0,0,0,"0_9",2013
+"504",598034,3,"Kolkata Knight Riders","Chennai Super Kings",0,0,3,100,"Chennai",0,0,0,0,"0_9",2013
+"505",598040,20,"Kolkata Knight Riders","Delhi Daredevils",2,1,16,125,"Raipur",0,0,0,0,"10_29",2013
+"506",598043,49,"Kolkata Knight Riders","Rajasthan Royals",3,3,36,136.1,"Kolkata",1,1,0,0,"30_49",2013
+"507",598050,13,"Kolkata Knight Riders","Mumbai Indians",1,1,8,162.5,"Mumbai",0,0,0,0,"10_29",2013
+"508",598053,3,"Kolkata Knight Riders","Pune Warriors",0,0,7,42.9,"Pune",0,0,0,0,"0_9",2013
+"509",598057,18,"Kolkata Knight Riders","Royal Challengers Bangalore",1,1,17,105.9,"Ranchi",0,0,0,0,"10_29",2013
+"510",598061,72,"Kolkata Knight Riders","Pune Warriors",8,3,44,163.6,"Ranchi",0,0,1,0,"50_79",2013
+"511",598069,49,"Kolkata Knight Riders","Sunrisers Hyderabad",3,3,29,169,"Hyderabad",0,1,0,0,"30_49",2013
+"512",729279,4,"Kolkata Knight Riders","Mumbai Indians",0,0,4,100,"Abu Dhabi",0,0,0,0,"0_9",2014
+"513",729289,11,"Kolkata Knight Riders","Delhi Daredevils",1,0,9,122.2,"0",0,0,0,0,"10_29",2014
+"514",729299,0,"Kolkata Knight Riders","Royal Challengers Bangalore",0,0,2,0,"0",0,0,0,0,"0_9",2014
+"515",729307,3,"Kolkata Knight Riders","Kings XI Punjab",0,0,5,60,"Abu Dhabi",0,0,0,0,"0_9",2014
+"516",733971,41,"Kolkata Knight Riders","Chennai Super Kings",1,4,29,141.4,"Ranchi",0,1,0,0,"30_49",2014
+"517",733979,0,"Kolkata Knight Riders","Rajasthan Royals",0,0,1,0,"Ahmedabad",0,0,0,0,"0_9",2014
+"518",734009,20,"Kolkata Knight Riders","Mumbai Indians",3,0,14,142.9,"Cuttack",0,0,0,0,"10_29",2014
+"519",734015,39,"Kolkata Knight Riders","Sunrisers Hyderabad",2,2,28,139.3,"Hyderabad",0,1,0,0,"30_49",2014
+"520",734027,22,"Kolkata Knight Riders","Royal Challengers Bangalore",1,2,13,169.2,"Kolkata",0,0,0,0,"10_29",2014
+"521",734037,72,"Kolkata Knight Riders","Sunrisers Hyderabad",5,7,22,327.3,"Kolkata",1,0,1,0,"50_79",2014
+"522",734043,20,"Kolkata Knight Riders","Kings XI Punjab",2,1,18,111.1,"Kolkata",0,0,0,0,"10_29",2014
+"523",734049,36,"Kolkata Knight Riders","Kings XI Punjab",0,4,23,156.5,"Bangalore",0,1,0,0,"30_49",2014
+"524",829705,14,"Kolkata Knight Riders","Mumbai Indians",1,1,12,116.7,"Kolkata",0,0,0,0,"10_29",2015
+"525",829713,3,"Kolkata Knight Riders","Royal Challengers Bangalore",0,0,4,75,"Kolkata",0,0,0,0,"0_9",2015
+"526",829733,28,"Kolkata Knight Riders","Kings XI Punjab",4,0,25,112,"Pune",0,0,0,0,"10_29",2015
+"527",829739,40,"Kolkata Knight Riders","Delhi Daredevils",6,1,26,153.8,"Delhi",0,1,0,0,"30_49",2015
+"528",829743,6,"Kolkata Knight Riders","Sunrisers Hyderabad",0,0,7,85.7,"Visakhapatnam",0,0,0,0,"0_9",2015
+"529",829761,42,"Kolkata Knight Riders","Delhi Daredevils",3,3,24,175,"Kolkata",0,1,0,0,"30_49",2015
+"530",829765,13,"Kolkata Knight Riders","Chennai Super Kings",0,0,20,65,"Chennai",0,0,0,0,"10_29",2015
+"531",829771,11,"Kolkata Knight Riders","Royal Challengers Bangalore",0,1,7,157.1,"Bangalore",0,0,0,0,"10_29",2015
+"532",829781,30,"Kolkata Knight Riders","Sunrisers Hyderabad",4,0,20,150,"Kolkata",0,1,0,0,"30_49",2015
+"533",829791,29,"Kolkata Knight Riders","Kings XI Punjab",1,3,19,152.6,"Kolkata",0,0,0,0,"10_29",2015
+"534",829805,52,"Kolkata Knight Riders","Mumbai Indians",5,2,40,130,"Mumbai",0,0,1,0,"50_79",2015
+"535",829811,44,"Kolkata Knight Riders","Rajasthan Royals",5,1,39,112.8,"Mumbai",0,1,0,0,"30_49",2015
+"536",980909,9,"Kolkata Knight Riders","Mumbai Indians",1,0,6,150,"Kolkata",0,0,0,0,"0_9",2016
+"537",980925,12,"Kolkata Knight Riders","Kings XI Punjab",2,0,7,171.4,"Chandigarh",0,0,0,0,"10_29",2016
+"538",980939,36,"Kolkata Knight Riders","Rising Pune Supergiants",2,2,27,133.3,"Pune",0,1,0,0,"30_49",2016
+"539",980947,19,"Kolkata Knight Riders","Mumbai Indians",4,0,8,237.5,"Mumbai",0,0,0,0,"10_29",2016
+"540",980951,10,"Kolkata Knight Riders","Delhi Daredevils",1,0,9,111.1,"Delhi",0,0,0,0,"10_29",2016
+"541",980959,60,"Kolkata Knight Riders","Royal Challengers Bangalore",6,3,30,200,"Bangalore",0,0,1,0,"50_79",2016
+"542",980963,19,"Kolkata Knight Riders","Kings XI Punjab",0,1,16,118.8,"Kolkata",0,0,0,0,"10_29",2016
+"543",980975,63,"Kolkata Knight Riders","Gujarat Lions",7,1,43,146.5,"Kolkata",0,0,1,0,"50_79",2016
+"544",980989,37,"Kolkata Knight Riders","Rising Pune Supergiants",4,3,20,185,"Kolkata",1,1,0,0,"30_49",2016
+"545",980995,6,"Kolkata Knight Riders","Royal Challengers Bangalore",0,0,12,50,"Kolkata",0,0,0,0,"0_9",2016
+"546",981001,36,"Kolkata Knight Riders","Gujarat Lions",3,1,37,97.3,"Kanpur",0,1,0,0,"30_49",2016
+"547",981009,52,"Kolkata Knight Riders","Sunrisers Hyderabad",3,2,35,148.6,"Kolkata",1,0,1,0,"50_79",2016
+"548",981015,2,"Kolkata Knight Riders","Sunrisers Hyderabad",0,0,6,33.3,"Delhi",0,0,0,0,"0_9",2016
+"549",1082597,6,"Kolkata Knight Riders","Mumbai Indians",0,0,11,54.5,"Mumbai",0,0,0,0,"0_9",2017
+"550",1082604,21,"Kolkata Knight Riders","Sunrisers Hyderabad",1,1,17,123.5,"Kolkata",0,0,0,0,"10_29",2017
+"551",1082608,59,"Kolkata Knight Riders","Delhi Daredevils",6,2,40,147.5,"Delhi",0,0,1,0,"50_79",2017
+"552",1082613,11,"Kolkata Knight Riders","Gujarat Lions",2,0,4,275,"Kolkata",0,0,0,0,"10_29",2017
+"553",1082617,8,"Kolkata Knight Riders","Royal Challengers Bangalore",0,0,9,88.9,"Kolkata",0,0,0,0,"0_9",2017
+"554",1082627,12,"Kolkata Knight Riders","Sunrisers Hyderabad",0,0,14,85.7,"Hyderabad",0,0,0,0,"10_29",2017
+"555",1082631,4,"Kolkata Knight Riders","Rising Pune Supergiant",0,0,9,44.4,"Kolkata",0,0,0,0,"0_9",2017
+"556",1082636,0,"Kolkata Knight Riders","Royal Challengers Bangalore",0,0,6,0,"Bangalore",0,0,0,0,"0_9",2017
+"557",1082639,2,"Kolkata Knight Riders","Kings XI Punjab",0,0,3,66.7,"Chandigarh",0,0,0,0,"0_9",2017
+"558",1082644,20,"Kolkata Knight Riders","Mumbai Indians",0,3,9,222.2,"Kolkata",0,0,0,0,"10_29",2017
+"559",1082648,0,"Kolkata Knight Riders","Sunrisers Hyderabad",0,0,1,0,"Bangalore",0,0,0,0,"0_9",2017

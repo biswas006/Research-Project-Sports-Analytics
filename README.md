@@ -19,11 +19,25 @@ Player attributes combined batting, bowling, and fielding attributes, and Weka a
 ### Classification (Unsupervised machine learning)
 Cluster analysis is an unsupervised machine learning technique that groups data objects based on their similarity. This study utilized popular clustering algorithms such as K-means and Hierarchical clustering to determine the ideal clusters for players in the IPL dataset. The Gap statistic method suggested dividing the dataset of 170 players into 9 clusters as an optimal choice to avoid generalization. Moreover, These two clusters (Kmeans and Hierarchical) looked identical and listed the same players. It was concluded that the clustering techniques performed really well and did not provide any conflicting results.
 
+
+![K9_Cluster](https://github.com/biswas006/Research-Project-Sports-Analytics-PhD-level/blob/main/Appendices/K9_Cluster.png)
+
+
+![Hierarchical Cluster](https://github.com/biswas006/Research-Project-Sports-Analytics-PhD-level/blob/main/Appendices/Hierarchical_Cluster.png)
+
 ### Learning Algorithms (Supervised Machine Learning)
 The supervised machine learning models were used for generating the prediction models. The labeled dataset is used to train the model, and then it predicted results for the input features. In this study, the target datasets were the Runs_category and Wickets_category used to find two different models for batting and bowling, respectively. The study used popular algorithms such as Naïve Bayes, decision trees, and random forest to find the best-suited model for the purpose.
 
 ## Model Performance 
 The SVM and Random forest (98.21%) performed the best as the Batsman model predicting Runs, while SVM (72.41%) predicted best in the wickets category. These two models were used on the players clustered along with Chris Gayle, to predict their runs and wickets points. The aggregations were made to list the overall top 3 players that can replace Chris Gayle in case of his retirement. 
+
+The performance of batting models on 90% train-10% test dataset.
+
+![Batting Model](https://github.com/biswas006/Research-Project-Sports-Analytics-PhD-level/blob/main/Appendices/Batting_model_90_10.png) 
+
+The performance of bowling models on 90% train-10% test dataset.
+
+![Bowling Model](https://github.com/biswas006/Research-Project-Sports-Analytics-PhD-level/blob/main/Appendices/Bowling_model_90_10.png) 
 
 ## Conclusions
 In order to respond to the research question, the top three players that can replace Chris Gayle in IPL were Shane Watson, Kieron Pollard, and Yuvraj Singh in the respective rank of choice based on clustering and performance of the predictive model.
